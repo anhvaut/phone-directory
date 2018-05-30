@@ -1,0 +1,9 @@
+﻿<UserControl x:Class="ControlPanel.UCOptions.LookandFeel"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="313" Width="417" Loaded="UserControl_Loaded">
+    <Grid>
+        <TextBlock Height="21" Margin="78,5,100,0" Name="textBlock1" VerticalAlignment="Top" Text="Change Look and feel of application" FontSize="12" FontWeight="Bold" />
+        <Button Height="23" HorizontalAlignment="Right" Margin="0,0,52,10" Name="btnSave" VerticalAlignment="Bottom" Width="75" Click="btnSave_Click">Save</Button><TextBlock FontSize="12" FontWeight="Normal" Height="21" Margin="29,36,149,0" Name="textBlock2" Text="Organisation Name:" VerticalAlignment="Top" /><TextBox Height="23" Margin="29,54,56,0" Name="txtOrganisationName" VerticalAlignment="Top" /><TextBlock FontSize="12" FontWeight="Normal" Height="21" Margin="29,96,149,0" Name="textBlock3" Text="Organisation Logo (32 x 32 image):" VerticalAlignment="Top" /><TextBox Height="23" Margin="29,116,128,0" Name="txtOrganisationLogo" VerticalAlignment="Top" /><Button Height="23" HorizontalAlignment="Right" Margin="0,116,56,0" Name="button2" VerticalAlignment="Top" Width="71" Click="button2_Click">Browse</Button><TextBlock FontSize="12" FontWeight="Normal" Height="21" Margin="29,0,149,107" Name="txtBackGround" Text="Background:" VerticalAlignment="Bottom" /><Rectangle Height="21" Margin="29,0,128,85" Name="currentColor" Stroke="Black" VerticalAlignment="Bottom" Fill="BlanchedAlmond" /><Button Height="23" HorizontalAlignment="Right" Margin="0,0,56,85" Name="btnEditColor" VerticalAlignment="Bottom" Width="71" Click="btnEditColor_Click">Edit Colors</Button>
+        <CheckBox HorizontalAlignment="Left" Margin="29,153,0,144" Name="ckDefaultLogo" Width="120" Checked="ckDefaultLogo_Checked" Unchecked="ckDefaultLogo_Unchecked">Using Defaul Logo</CheckBox></Grid>
+</UserControl>

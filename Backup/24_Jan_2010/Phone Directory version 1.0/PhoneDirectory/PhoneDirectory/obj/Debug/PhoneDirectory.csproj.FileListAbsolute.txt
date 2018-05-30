@@ -1,0 +1,187 @@
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\App.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory_MarkupCompile.cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.g.resources
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\MainGUI.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\MainGUI.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory_MarkupCompile.lref
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\QuickSearch.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\QuickSearch.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.config
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\Options.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\Options.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\UCOptions\LookandFeel.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\UCOptions\LookandFeel.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\UCOptions\DisplayResult.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\UCOptions\GeneralSettings.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\UCOptions\SearchApplications.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\UCOptions\DisplayResult.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\UCOptions\GeneralSettings.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\PhoneDirectory\obj\Debug\UCOptions\SearchApplications.g.cs
+C:\TEMP\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.config
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+C:\TEMP\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+C:\TEMP\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+C:\TEMP\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.dll
+C:\TEMP\PhoneDirectory\PhoneDirectory\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\TEMP\PhoneDirectory\PhoneDirectory\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\TEMP\PhoneDirectory\PhoneDirectory\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\TEMP\PhoneDirectory\PhoneDirectory\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\TEMP\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.pdb
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\ResolveAssemblyReference.cache
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\Options.baml
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\QuickSearch.baml
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\UCOptions\DisplayResult.baml
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\UCOptions\GeneralSettings.baml
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\UCOptions\LookandFeel.baml
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\UCOptions\SearchApplications.baml
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\MainGUI.g.cs
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\Options.g.cs
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\QuickSearch.g.cs
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\UCOptions\DisplayResult.g.cs
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\UCOptions\GeneralSettings.g.cs
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\UCOptions\LookandFeel.g.cs
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\UCOptions\SearchApplications.g.cs
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\App.g.cs
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory_MarkupCompile.cache
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory_MarkupCompile.lref
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\MainGUI.baml
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.g.resources
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.config
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\QuickSearch.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\MainGUI.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\QuickSearch.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\App.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory_MarkupCompile.cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory_MarkupCompile.lref
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\MainGUI.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.g.resources
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.config
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.pdb
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\QuickSearch.baml
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\MainGUI.g.cs
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\QuickSearch.g.cs
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory_MarkupCompile.cache
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory_MarkupCompile.lref
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\MainGUI.baml
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.g.resources
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\EditProfile.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\EditProfile.g.cs
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\EditProfile.baml
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\EditProfile.g.cs
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\AddNewContact.baml
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\AddNewContact.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\AddNewContact.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\AddNewContact.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\AboutUs.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\AboutUs.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\ControlPanel.exe
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\ControlPanel.pdb
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\ControlPanel.exe
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\ControlPanel.pdb
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\AboutUs.baml
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\AboutUs.g.cs
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\WPFColorPickerLib.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\ZonaTools.XPlorerBar.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\WPFColorPickerLib.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\ZonaTools.XPlorerBar.dll
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.config
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.dll
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\bin\Debug\ControlPanel.exe
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\bin\Debug\WPFColorPickerLib.dll
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\bin\Debug\ZonaTools.XPlorerBar.dll
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\bin\Debug\ControlPanel.pdb
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.pdb
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\AboutUs.baml
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\AddNewContact.baml
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\EditProfile.baml
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\QuickSearch.baml
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\AboutUs.g.cs
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\AddNewContact.g.cs
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\EditProfile.g.cs
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\MainGUI.g.cs
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\QuickSearch.g.cs
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\App.g.cs
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory_MarkupCompile.cache
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory_MarkupCompile.lref
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\MainGUI.baml
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.g.resources
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+D:\Projects\Phone Directory\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.config
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\bin\Debug\ControlPanel.exe
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\bin\Debug\WPFColorPickerLib.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\bin\Debug\ZonaTools.XPlorerBar.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\bin\Debug\ControlPanel.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\AboutUs.baml
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\AddNewContact.baml
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\EditProfile.baml
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\QuickSearch.baml
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\AboutUs.g.cs
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\AddNewContact.g.cs
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\EditProfile.g.cs
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\MainGUI.g.cs
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\QuickSearch.g.cs
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\App.g.cs
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory_MarkupCompile.cache
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory_MarkupCompile.lref
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\MainGUI.baml
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.g.resources
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\bin\Debug\ProductLib.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\bin\Debug\ProductLib.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\bin\Debug\KeyboardHookLib.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\PhoneDirectory\bin\Debug\KeyboardHookLib.pdb

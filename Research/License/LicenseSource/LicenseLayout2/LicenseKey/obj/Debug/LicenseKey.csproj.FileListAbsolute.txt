@@ -1,0 +1,10 @@
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseKey\bin\Debug\LicenseKey.dll
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseKey\bin\Debug\LicenseKey.pdb
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseKey\bin\Debug\LicenseKey.xml
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseKey\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseKey\obj\Debug\LicenseKey.Randomm.resources
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseKey\obj\Debug\LicenseKey.csproj.GenerateResource.Cache
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseKey\obj\Debug\LicenseKey.dll
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseKey\obj\Debug\LicenseKey.pdb
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseKey\bin\Debug\nunit.framework.dll
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseKey\bin\Debug\nunit.framework.xml

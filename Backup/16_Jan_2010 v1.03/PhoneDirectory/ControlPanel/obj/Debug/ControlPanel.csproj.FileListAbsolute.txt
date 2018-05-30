@@ -1,0 +1,81 @@
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\bin\Debug\ControlPanel.exe
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\bin\Debug\ControlPanel.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\App.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel_MarkupCompile.cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel.g.resources
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel.Properties.Resources.resources
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel.csproj.GenerateResource.Cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel.exe
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\BackupandRestore.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\DisplayResult.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\GeneralSettings.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\LookandFeel.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\SearchApplications.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\BackupandRestore.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\DisplayResult.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\GeneralSettings.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\LookandFeel.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\SearchApplications.g.cs
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\bin\Debug\CommonLibrary.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\bin\Debug\CommonLibrary.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\Options.baml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\obj\Debug\Options.g.cs
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\bin\Debug\ControlPanel.exe
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\bin\Debug\ControlPanel.pdb
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\bin\Debug\CommonLibrary.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\bin\Debug\CommonLibrary.pdb
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\Options.baml
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\BackupandRestore.baml
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\DisplayResult.baml
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\GeneralSettings.baml
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\LookandFeel.baml
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\SearchApplications.baml
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\Options.g.cs
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\BackupandRestore.g.cs
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\DisplayResult.g.cs
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\GeneralSettings.g.cs
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\LookandFeel.g.cs
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\SearchApplications.g.cs
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\App.g.cs
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel_MarkupCompile.cache
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel.g.resources
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel.Properties.Resources.resources
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel.exe
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\ControlPanel\bin\Debug\Interop.NKTWABLib.dll
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\bin\Debug\ControlPanel.exe
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\bin\Debug\ControlPanel.pdb
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\bin\Debug\CommonLibrary.dll
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\bin\Debug\Interop.NKTWABLib.dll
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\bin\Debug\CommonLibrary.pdb
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\Options.baml
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\BackupandRestore.baml
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\DisplayResult.baml
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\GeneralSettings.baml
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\LookandFeel.baml
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\SearchApplications.baml
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\Options.g.cs
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\BackupandRestore.g.cs
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\DisplayResult.g.cs
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\GeneralSettings.g.cs
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\LookandFeel.g.cs
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\UCOptions\SearchApplications.g.cs
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\App.g.cs
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel_MarkupCompile.cache
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel.g.resources
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel.Properties.Resources.resources
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel.csproj.GenerateResource.Cache
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel.exe
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\ControlPanel.pdb
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\Parameters\UserIDRequired.baml
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\Parameters\UserIDRequired.g.cs
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\Parameters\ImportandExportParamters.baml
+D:\Projects\Phone Directory\PhoneDirectory\ControlPanel\obj\Debug\Parameters\ImportandExportParamters.g.cs

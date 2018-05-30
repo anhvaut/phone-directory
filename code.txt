@@ -1,0 +1,105 @@
+Public Function UserInfo(LoginName As String) As String
+'PURPOSE: Display information that is available in
+'the Active Directory about a given user
+
+'PARAMETER: Login Name for user
+
+'RETURNS: String with selected information about
+'user, or empty string if there is no such
+'login on the current domain
+
+'REQUIRES: Windows 2000 ADSI, LDAP Provider
+'Proper Security Credentials.
+
+'EXAMPLE: msgbox UserInfo("Administrator")
+
+Dim conn As New ADODB.Connection
+Dim rs As ADODB.Recordset
+Dim oRoot As IADs
+Dim oDomain As IADs
+Dim sBase As String
+Dim sFilter As String
+Dim sDomain As String
+
+Dim sAttribs As String
+Dim sDepth As String
+Dim sQuery As String
+Dim sAns As String
+
+Dim user As IADsUser
+
+On Error GoTo ErrHandler:
+
+'Get user Using LDAP/ADO.  There is an easier way
+'to bind to a user object using the WinNT provider,
+'but this way is a better for educational purposes
+Set oRoot = GetObject("LDAP://rootDSE")
+'work in the default domain
+sDomain = oRoot.Get("defaultNamingContext")
+Set oDomain = GetObject("LDAP://" & sDomain)
+sBase = "<" & oDomain.ADsPath & ">"
+'Only get user name requested
+sFilter = "(&(objectCategory=person)(objectClass=user)(name=" _
+  & LoginName & "))"
+sAttribs = "adsPath"
+sDepth = "subTree"
+
+sQuery = sBase & ";" & sFilter & ";" & sAttribs & ";" & sDepth
+                   
+conn.Open _
+  "Data Source=Active Directory Provider;Provider=ADsDSOObject"
+  
+Set rs = conn.Execute(sQuery)
+
+If Not rs.EOF Then
+    Set user = GetObject(rs("adsPath"))
+    With user
+    
+    'if the attribute is not stored in AD,
+    'an error will occur.  Therefore, this
+    'will return data only from populated attributes
+    On Error Resume Next
+    
+    sAns = "First Name: " & .FirstName & vbCrLf
+    sAns = sAns & "Last Name " & .LastName & vbCrLf
+    sAns = sAns & "Employee ID: " & .EmployeeID & vbCrLf
+    sAns = sAns & "Title: " & .Title & vbCrLf
+    sAns = sAns & "Division: " & .Division & vbCrLf
+    sAns = sAns & "Department: " & .Department & vbCrLf
+    sAns = sAns & "Manager: " & .Manager & vbCrLf
+
+    sAns = sAns & "Phone Number: " & .TelephoneNumber & vbCrLf
+    sAns = sAns & "Fax Number: " & .FaxNumber & vbCrLf
+    
+    sAns = sAns & "Email Address: " & .EmailAddress & vbCrLf
+    sAns = sAns & "Web Page: " & .HomePage & vbCrLf
+    sAns = sAns & "Last Login: " & .LastLogin & vbCrLf
+    sAns = sAns & "Last Logoff: " & .LastLogoff & vbCrLf
+    
+    sAns = sAns & "Account Expiration Date: " _
+         & .AccountExpirationDate & vbCrLf
+    
+    'IN RC2, this returned 1/1/1970 when password 
+    'never expires option is set
+    sAns = sAns & "Password Expiration Date: " _
+      & .PasswordExpirationDate
+       
+    End With
+End If
+UserInfo = sAns
+ErrHandler:
+
+On Error Resume Next
+If Not rs Is Nothing Then
+    If rs.State <> 0 Then rs.Close
+    Set rs = Nothing
+End If
+
+If Not conn Is Nothing Then
+    If conn.State <> 0 Then conn.Close
+    Set conn = Nothing
+End If
+
+Set oRoot = Nothing
+Set oDomain = Nothing
+End Function

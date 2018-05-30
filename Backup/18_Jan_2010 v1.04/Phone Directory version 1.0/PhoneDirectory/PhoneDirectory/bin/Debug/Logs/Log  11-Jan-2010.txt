@@ -1,0 +1,4 @@
+11-Jan-2010 7:34:54 PM, From LT-002 ==> Check Domain Name  LDAP://DC=WOLLUNDRA,DC=local;The specified domain either does not exist or could not be contacted.
+
+11-Jan-2010 7:38:11 PM, From LT-002 ==> Check Domain Name  LDAP://DC=WOLLUNDRA,DC=local;The specified domain either does not exist or could not be contacted.
+

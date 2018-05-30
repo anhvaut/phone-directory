@@ -1,0 +1,10 @@
+D:\Projects\Phone Directory\License Generator\Product Key Generator\Product Key Generator\bin\Debug\Product Key Generator.exe
+D:\Projects\Phone Directory\License Generator\Product Key Generator\Product Key Generator\bin\Debug\Product Key Generator.pdb
+D:\Projects\Phone Directory\License Generator\Product Key Generator\Product Key Generator\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\License Generator\Product Key Generator\Product Key Generator\obj\Debug\Product_Key_Generator.MainGUI.resources
+D:\Projects\Phone Directory\License Generator\Product Key Generator\Product Key Generator\obj\Debug\Product_Key_Generator.Properties.Resources.resources
+D:\Projects\Phone Directory\License Generator\Product Key Generator\Product Key Generator\obj\Debug\Product Key Generator.csproj.GenerateResource.Cache
+D:\Projects\Phone Directory\License Generator\Product Key Generator\Product Key Generator\obj\Debug\Product Key Generator.exe
+D:\Projects\Phone Directory\License Generator\Product Key Generator\Product Key Generator\obj\Debug\Product Key Generator.pdb
+D:\Projects\Phone Directory\License Generator\Product Key Generator\Product Key Generator\bin\Debug\ProductLib.dll
+D:\Projects\Phone Directory\License Generator\Product Key Generator\Product Key Generator\bin\Debug\ProductLib.pdb

@@ -1,0 +1,7 @@
+D:\Projects\Phone Directory\Phone Directory version 1.0\License Generator\Product Key Generator\ProductLib\bin\Release\Wollundra.ProductLib.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\License Generator\Product Key Generator\ProductLib\bin\Release\Wollundra.ProductLib.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\License Generator\Product Key Generator\ProductLib\bin\Release\Wollundra.Encoding.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\License Generator\Product Key Generator\ProductLib\bin\Release\Wollundra.Encoding.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\License Generator\Product Key Generator\ProductLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\Phone Directory version 1.0\License Generator\Product Key Generator\ProductLib\obj\Release\Wollundra.ProductLib.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\License Generator\Product Key Generator\ProductLib\obj\Release\Wollundra.ProductLib.pdb

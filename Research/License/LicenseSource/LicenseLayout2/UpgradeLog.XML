@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LicenseLayout">
+</Property><Property Name="Solution File" Value="D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseLayout.sln">
+</Property><Property Name="Date" Value="Friday, January 15, 2010">
+</Property><Property Name="Time" Value="11:07 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LicenseLayout.sln" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseLayout.sln">
+</Event><Event ErrorLevel="0" Project="LicenseLayout" Source="LicenseLayout\LicenseLayout.csproj" Description="Project file successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseLayout\LicenseLayout.csproj">
+</Event><Event ErrorLevel="0" Project="LicenseLayout" Source="LicenseLayout\LicenseLayout.csproj.user" Description="Project user file successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseLayout\LicenseLayout.csproj.user">
+</Event><Event ErrorLevel="0" Project="LicenseLayout" Source="LicenseLayout\AssemblyInfo.cs" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseLayout\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LicenseLayout" Source="LicenseLayout\CheckSumUI.cs" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseLayout\CheckSumUI.cs">
+</Event><Event ErrorLevel="0" Project="LicenseLayout" Source="LicenseLayout\Form1.cs" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseLayout\Form1.cs">
+</Event><Event ErrorLevel="0" Project="LicenseLayout" Source="LicenseLayout\FullTest.cs" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseLayout\FullTest.cs">
+</Event><Event ErrorLevel="0" Project="LicenseLayout" Source="LicenseLayout\RandomUI.cs" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseLayout\RandomUI.cs">
+</Event><Event ErrorLevel="0" Project="LicenseLayout" Source="LicenseLayout\App.ico" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseLayout\App.ico">
+</Event><Event ErrorLevel="0" Project="LicenseLayout" Source="LicenseLayout\CheckSumUI.resx" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseLayout\CheckSumUI.resx">
+</Event><Event ErrorLevel="0" Project="LicenseLayout" Source="LicenseLayout\Form1.resx" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseLayout\Form1.resx">
+</Event><Event ErrorLevel="0" Project="LicenseLayout" Source="LicenseLayout\FullTest.resx" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseLayout\FullTest.resx">
+</Event><Event ErrorLevel="0" Project="LicenseLayout" Source="LicenseLayout\RandomUI.resx" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseLayout\RandomUI.resx">
+</Event><Event ErrorLevel="0" Project="LicenseLayout" Source="LicenseLayout\LicenseLayout.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LicenseLayout" Source="LicenseLayout\LicenseLayout.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LicenseKey" Source="LicenseKey\LicenseKey.csproj" Description="Project file successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseKey\LicenseKey.csproj">
+</Event><Event ErrorLevel="0" Project="LicenseKey" Source="LicenseKey\LicenseKey.csproj.user" Description="Project user file successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseKey\LicenseKey.csproj.user">
+</Event><Event ErrorLevel="0" Project="LicenseKey" Source="LicenseKey\AssemblyInfo.cs" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseKey\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LicenseKey" Source="LicenseKey\CharacterDatatype.cs" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseKey\CharacterDatatype.cs">
+</Event><Event ErrorLevel="0" Project="LicenseKey" Source="LicenseKey\Checksum.cs" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseKey\Checksum.cs">
+</Event><Event ErrorLevel="0" Project="LicenseKey" Source="LicenseKey\Datatype.cs" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseKey\Datatype.cs">
+</Event><Event ErrorLevel="0" Project="LicenseKey" Source="LicenseKey\LicenseKey.cs" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseKey\LicenseKey.cs">
+</Event><Event ErrorLevel="0" Project="LicenseKey" Source="LicenseKey\NumberDatatype.cs" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseKey\NumberDatatype.cs">
+</Event><Event ErrorLevel="0" Project="LicenseKey" Source="LicenseKey\NumberDisplay.cs" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseKey\NumberDisplay.cs">
+</Event><Event ErrorLevel="0" Project="LicenseKey" Source="LicenseKey\Randomm.cs" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseKey\Randomm.cs">
+</Event><Event ErrorLevel="0" Project="LicenseKey" Source="LicenseKey\Randomm.resx" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseKey\Randomm.resx">
+</Event><Event ErrorLevel="0" Project="LicenseKey" Source="LicenseKey\LicenseKey.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LicenseKey" Source="LicenseKey\LicenseKey.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LicenseNunit" Source="LicenseNunit\LicenseNunit.csproj" Description="Project file successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseNunit\LicenseNunit.csproj">
+</Event><Event ErrorLevel="0" Project="LicenseNunit" Source="LicenseNunit\LicenseNunit.csproj.user" Description="Project user file successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseNunit\LicenseNunit.csproj.user">
+</Event><Event ErrorLevel="0" Project="LicenseNunit" Source="LicenseNunit\AssemblyInfo.cs" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseNunit\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LicenseNunit" Source="LicenseNunit\BuildTest.cs" Description="File successfully backed up as D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\Backup\LicenseNunit\BuildTest.cs">
+</Event><Event ErrorLevel="0" Project="LicenseNunit" Source="LicenseNunit\LicenseNunit.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LicenseNunit" Source="LicenseNunit\LicenseNunit.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LicenseLayout.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LicenseLayout.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LicenseLayout" Source="LicenseLayout\LicenseLayout.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LicenseKey" Source="LicenseKey\LicenseKey.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LicenseNunit" Source="LicenseNunit\LicenseNunit.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

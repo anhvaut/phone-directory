@@ -1,0 +1,7 @@
+﻿<UserControl x:Class="PhoneDirectory.UCOptions.DisplayResult"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="313" Width="417" Loaded="UserControl_Loaded">
+    <Grid>
+        <TextBlock FontSize="12" FontWeight="Bold" Height="21" Margin="75,11,103,0" Name="textBlock1" Text="Choose fields to search for" VerticalAlignment="Top" TextAlignment="Center" /><CheckBox Height="16" HorizontalAlignment="Left" Margin="62,81,0,0" Name="ckHomePhone" VerticalAlignment="Top" Width="120">Home Phone</CheckBox><CheckBox Height="16" HorizontalAlignment="Left" Margin="62,115,0,0" Name="ckMobilePhone" VerticalAlignment="Top" Width="120">Mobile Phone</CheckBox><CheckBox HorizontalAlignment="Left" Margin="62,151,0,146" Name="ckBusinessPhone" Width="120">Business Phone</CheckBox><CheckBox Height="16" Margin="0,81,54,0" Name="ckBusinessFax" VerticalAlignment="Top" HorizontalAlignment="Right" Width="120">Business Fax</CheckBox><CheckBox Height="16" Margin="0,115,54,0" Name="ckEmail" VerticalAlignment="Top" HorizontalAlignment="Right" Width="120">Email</CheckBox><CheckBox Margin="0,151,54,146" Name="ckAddress" HorizontalAlignment="Right" Width="120">Address</CheckBox><Button Height="23" HorizontalAlignment="Right" Margin="0,0,50,27" Name="btnSave" VerticalAlignment="Bottom" Width="75" Click="btnSave_Click">Save</Button></Grid>
+</UserControl>

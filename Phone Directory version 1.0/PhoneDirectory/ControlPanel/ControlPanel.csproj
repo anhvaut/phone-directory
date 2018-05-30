@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4BD93106-F530-464F-B747-2C200440B8CB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ControlPanel</RootNamespace>
+    <AssemblyName>ControlPanel</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <ApplicationIcon>controlpanel.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="PresentationCore">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="PresentationFramework">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WPFColorPickerLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="ZonaTools.XPlorerBar, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="Options.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Parameters\ExportParameters.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Parameters\ImportandExportParamters.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Parameters\UserIDRequired.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UCOptions\BackupandRestore.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UCOptions\DisplayResult.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UCOptions\GeneralSettings.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UCOptions\LookandFeel.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UCOptions\ProductLicense.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UCOptions\SearchApplications.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Convert.cs" />
+    <Compile Include="Options.xaml.cs">
+      <DependentUpon>Options.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Parameters\ExportParameters.xaml.cs">
+      <DependentUpon>ExportParameters.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Parameters\ImportandExportParamters.xaml.cs">
+      <DependentUpon>ImportandExportParamters.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Parameters\UserIDRequired.xaml.cs">
+      <DependentUpon>UserIDRequired.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="UCOptions\BackupandRestore.xaml.cs">
+      <DependentUpon>BackupandRestore.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UCOptions\DisplayResult.xaml.cs">
+      <DependentUpon>DisplayResult.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UCOptions\GeneralSettings.xaml.cs">
+      <DependentUpon>GeneralSettings.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UCOptions\LookandFeel.xaml.cs">
+      <DependentUpon>LookandFeel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UCOptions\ProductLicense.xaml.cs">
+      <DependentUpon>ProductLicense.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UCOptions\SearchApplications.xaml.cs">
+      <DependentUpon>SearchApplications.xaml</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\License Generator\Product Key Generator\ProductLib\ProductLib.csproj">
+      <Project>{168D5329-ED64-4661-A397-F6F71D78095D}</Project>
+      <Name>ProductLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\App\App.csproj">
+      <Project>{B630A2FE-80C1-4B3E-9678-E1B8AA44085F}</Project>
+      <Name>App</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ContactManagement.ActiveDirectory\ContactManagement.ActiveDirectory.csproj">
+      <Project>{2964FE2D-0735-4FF2-B727-479BD4A1E3B8}</Project>
+      <Name>ContactManagement.ActiveDirectory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ContactManagement\ContactManagement.csproj">
+      <Project>{3814A120-2C27-40A8-8E3E-1BE4B591F849}</Project>
+      <Name>ContactManagement</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utititles\Utititles.csproj">
+      <Project>{935FECA8-3AB0-409E-96FE-13D87FCA6E8D}</Project>
+      <Name>Utititles</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\BackupAndRestore.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\DisplayResult.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\GeneralSettings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\logo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\LookAndFeel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Preperences.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\SearchApplication.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\ywcalogo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\fail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="controlpanel.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\licensing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\save.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\companybanner.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

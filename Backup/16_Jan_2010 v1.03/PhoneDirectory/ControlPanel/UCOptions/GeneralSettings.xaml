@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="ControlPanel.UCOptions.GeneralSettings"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="313" Width="417" Loaded="UserControl_Loaded">
+    <Grid>
+        <TextBlock FontSize="12" FontWeight="Bold" Height="21" Margin="78,13,100,0" Name="textBlock1" Text="General Settings" TextAlignment="Center" VerticalAlignment="Top" />
+        <CheckBox Height="16" HorizontalAlignment="Left" Margin="30,59,0,0" Name="ckWindowService" VerticalAlignment="Top" Width="176" Checked="ckWindowService_Checked" Unchecked="ckWindowService_Unchecked">Run as Windows Service</CheckBox>
+        
+        <CheckBox Height="16" HorizontalAlignment="Left" Margin="30,88,0,0" Name="ckDebugMode" VerticalAlignment="Top" Width="176" Checked="ckDebugMode_Checked" Unchecked="ckDebugMode_Unchecked" >Run in Debug mode</CheckBox>
+        
+    </Grid>
+    
+</UserControl>

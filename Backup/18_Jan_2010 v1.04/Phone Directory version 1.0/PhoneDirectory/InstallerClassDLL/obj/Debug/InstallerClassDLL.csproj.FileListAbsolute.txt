@@ -1,0 +1,7 @@
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\bin\Debug\InstallerClassDLL.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\bin\Debug\InstallerClassDLL.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Debug\InstallerClassDLL.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Debug\InstallerClassDLL.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Debug\InstallerClassDLL.SerialNumber.resources
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Debug\InstallerClassDLL.csproj.GenerateResource.Cache

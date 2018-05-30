@@ -1,0 +1,2 @@
+02-Feb-2010 5:15:26 AM, From LT-002 ==> Check Domain Name  LDAP://DC=WOLLUNDRA,DC=local;The specified domain either does not exist or could not be contacted.
+

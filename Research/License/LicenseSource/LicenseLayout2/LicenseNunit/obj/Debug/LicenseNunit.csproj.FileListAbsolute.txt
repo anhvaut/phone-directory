@@ -1,0 +1,10 @@
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseNunit\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseNunit\bin\Debug\LicenseNunit.dll
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseNunit\bin\Debug\LicenseNunit.pdb
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseNunit\bin\Debug\LicenseKey.dll
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseNunit\bin\Debug\nunit.framework.dll
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseNunit\bin\Debug\LicenseKey.pdb
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseNunit\bin\Debug\LicenseKey.xml
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseNunit\bin\Debug\nunit.framework.xml
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseNunit\obj\Debug\LicenseNunit.dll
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseNunit\obj\Debug\LicenseNunit.pdb

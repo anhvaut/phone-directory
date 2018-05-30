@@ -1,0 +1,22 @@
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.ComctlLib.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.ComctlLib.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.NKTWABLib.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Projects\Phone Directory\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Projects\Phone Directory\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Projects\Phone Directory\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Projects\Phone Directory\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Projects\Phone Directory\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Projects\Phone Directory\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projects\Phone Directory\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Projects\Phone Directory\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\Projects\Phone Directory\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.ActiveDs.dll
+D:\Projects\Phone Directory\Research\Outlook express contact\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.ActiveDs.dll

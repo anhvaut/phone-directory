@@ -1,0 +1,5 @@
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\ContactManagement\bin\Release\Wollundra.ContactManagement.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\ContactManagement\bin\Release\Wollundra.ContactManagement.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\ContactManagement\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\ContactManagement\obj\Release\Wollundra.ContactManagement.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\ContactManagement\obj\Release\Wollundra.ContactManagement.pdb

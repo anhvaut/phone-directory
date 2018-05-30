@@ -1,0 +1,10 @@
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\ContactManagement.OutlookExpress\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\ContactManagement.OutlookExpress\bin\Debug\Wollundra.ContactManagement.OutlookExpress.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\ContactManagement.OutlookExpress\bin\Debug\Wollundra.ContactManagement.OutlookExpress.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\ContactManagement.OutlookExpress\obj\Debug\Wollundra.ContactManagement.OutlookExpress.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\ContactManagement.OutlookExpress\obj\Debug\Wollundra.ContactManagement.OutlookExpress.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\ContactManagement.OutlookExpress\bin\Debug\AxInterop.ComctlLib.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\ContactManagement.OutlookExpress\bin\Debug\Interop.ComctlLib.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\ContactManagement.OutlookExpress\bin\Debug\Interop.NKTWABLib.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\ContactManagement.OutlookExpress\bin\Debug\Wollundra.ContactManagement.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\ContactManagement.OutlookExpress\bin\Debug\Wollundra.ContactManagement.pdb

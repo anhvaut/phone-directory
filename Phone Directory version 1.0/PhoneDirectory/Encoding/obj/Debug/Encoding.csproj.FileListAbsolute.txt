@@ -1,0 +1,5 @@
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\Encoding\bin\Debug\Wollundra.Encoding.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\Encoding\bin\Debug\Wollundra.Encoding.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\Encoding\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\Encoding\obj\Debug\Wollundra.Encoding.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\Encoding\obj\Debug\Wollundra.Encoding.pdb

@@ -1,0 +1,10 @@
+22-Jan-2010 4:28:41 AM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 8007007e.
+22-Jan-2010 4:34:03 AM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 8007007e.
+22-Jan-2010 11:06:16 AM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 8007007e.
+22-Jan-2010 2:07:28 PM, From LT-002 ==> Outlook:Could not load file or assembly 'Interop.Microsoft.Office.Interop.Outlook, Version=9.3.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified.
+22-Jan-2010 3:01:22 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 8007007e.
+22-Jan-2010 3:16:00 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 8007007e.
+22-Jan-2010 3:22:36 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 8007007e.
+22-Jan-2010 3:23:37 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 8007007e.
+22-Jan-2010 3:32:16 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 8007007e.
+22-Jan-2010 5:27:53 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 8007007e.

@@ -1,0 +1,13 @@
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\bin\Release\Wollundra.InstallerClassDLL.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\bin\Release\Wollundra.InstallerClassDLL.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\bin\Release\Wollundra.ProductLib.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\bin\Release\Wollundra.Encoding.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\bin\Release\Wollundra.Encoding.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\bin\Release\Wollundra.ProductLib.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Release\Wollundra.InstallerClassDLL.g.resources
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Release\Wollundra.InstallerClassDLL.Properties.Resources.resources
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Release\Wollundra.InstallerClassDLL.SerialNumber.resources
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Release\InstallerClassDLL.csproj.GenerateResource.Cache
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Release\Wollundra.InstallerClassDLL.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Release\Wollundra.InstallerClassDLL.pdb

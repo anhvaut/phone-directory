@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Word2Chm>
+  <WordFile>.\G'Day Help.docx</WordFile>
+  <ChmFile>.\G'Day Help.chm</ChmFile>
+  <ChmTitle>G'Day Help</ChmTitle>
+  <Copyright>Copyright © 2010 Wollundra Pty Ltd   A.C.N. 075 477 048</Copyright>
+  <Options RelatedTopicTitle="Related Topics" CoverPageTitle="Cover" Buttons="0x387E" Panels="0x061520" Language="-1" CustomRootLevel="0" ShowRelatedTopic="True" RefToLink="True" Engine="Auto" HelpIdTemplate="None" PageFileNameRule="Default" ShowNavigator="True" UsePNG="True" ShowChapterNo="False"/>
+  <Addins/>
+  <Themes>
+    <Theme __File="MSDN Style.theme" __Path="Themes\MSDN Style\" HeaderBackColor="#99CCFF" HeaderLineColor="#A0A0A0" FooterBackColor="#99CCFF" FooterLineColor="#A0A0A0" BodyBackColor="#FFFFFF" __Enabled="True"/>
+  </Themes>
+</Word2Chm>

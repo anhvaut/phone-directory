@@ -1,0 +1,55 @@
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.MainGUI.resources
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\Interop.ActiveDs.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.ResolveComReference.cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\Interop.ActiveDs.dll
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\Interop.ActiveDs.dll
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.ResolveComReference.cache
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+C:\TEMP\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+C:\TEMP\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+C:\TEMP\PhoneDirectory\PhoneDirectory\bin\Debug\Interop.ActiveDs.dll
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\ResolveAssemblyReference.cache
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.MainGUI.resources
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+C:\TEMP\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+C:\TEMP\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.dll
+C:\TEMP\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.QuickSearchForm.resources
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.OptionsForm.resources
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\Interop.ActiveDs.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\CommonLibrary.pdb
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\Interop.ActiveDs.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.MainGUI.resources
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.OptionsForm.resources
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.QuickSearchForm.resources
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.config
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.AboutUsForm.resources
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.config
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.AboutUsForm.resources

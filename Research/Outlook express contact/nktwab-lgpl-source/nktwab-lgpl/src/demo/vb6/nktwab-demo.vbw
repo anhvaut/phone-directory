@@ -1,0 +1,4 @@
+frmMain = 0, 0, 0, 0, C, 66, 87, 650, 486, C
+frmContact = 0, 0, 0, 0, C, 44, 58, 628, 457, C
+frmSelectContact = 0, 0, 0, 0, C, 88, 116, 672, 515, C
+modTools = 0, 0, 0, 0, C

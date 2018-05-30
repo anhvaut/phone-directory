@@ -1,0 +1,13 @@
+﻿<Window x:Class="PhoneDirectory.AboutUs"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="AboutUs" Height="373" Width="426" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow" Loaded="Window_Loaded">
+    <Grid>
+        <TextBlock Height="21" Margin="43,22,35,0" Name="txtProductName" VerticalAlignment="Top" Text="Telephone Directory" TextAlignment="Center" FontSize="12" /><TextBlock Margin="43,49,44,0" Name="txtVersion" Text="Version 1.00" Height="21" VerticalAlignment="Top" TextAlignment="Center" FontSize="12" /><TextBlock Height="21" Margin="43,78,44,0" Name="txtLicensedTo" VerticalAlignment="Top" Text="Registered to:" TextAlignment="Center" FontSize="12" /><TextBlock Margin="78,104,0,0" Name="txtSupport" Text="Support: " TextAlignment="Center" Height="21" VerticalAlignment="Top" FontSize="12" HorizontalAlignment="Left" Width="87" /><TextBlock Height="21" Margin="43,0,35,104" Name="textBlock3" Text="© 2010 Wollundra Pty Ltd" TextAlignment="Center" VerticalAlignment="Bottom" FontSize="12" /><TextBlock Height="21" Margin="43,0,35,83" Name="textBlock4" Text="A.C.N. 075 477 048" TextAlignment="Center" VerticalAlignment="Bottom" FontSize="12" /><TextBlock Height="38" Margin="15,0,11,11" Name="textBlock5" Text="Warning:  The unauthorised reproduction or distribution of this software will result in criminal penalties." TextAlignment="Center" VerticalAlignment="Bottom" TextWrapping="Wrap" FontSize="12" Foreground="Brown" /><Image Margin="98,12,0,0" Name="image1" Stretch="Fill" Height="31" HorizontalAlignment="Left" VerticalAlignment="Top" Width="32" Source="/PhoneDirectory;component/Images/productlogo.jpeg" /><Image Margin="170,126,165,140" Name="image2" Stretch="Fill" Source="/PhoneDirectory;component/Images/companylogo.png" />
+        <TextBlock Height="21" Margin="151,104,45,0" Name="textBlock1" VerticalAlignment="Top" FontSize="12">
+            <Hyperlink NavigateUri="mailto:support@wollundra.com.au" RequestNavigate="Hyperlink_RequestNavigate">
+                support@wollundra.com.au
+            </Hyperlink>
+         </TextBlock>
+     </Grid>
+</Window>

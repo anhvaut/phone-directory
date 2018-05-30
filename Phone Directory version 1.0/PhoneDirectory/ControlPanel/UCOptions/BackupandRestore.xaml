@@ -1,0 +1,8 @@
+﻿<UserControl x:Class="Wollundra.ControlPanel.UCOptions.BackupandRestore"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+     Height="313" Width="417" Loaded="UserControl_Loaded">
+    <Grid>
+        <GroupBox Header="Backup and Restore Configuration" Margin="27,55,24,0" Name="groupBox1" Height="63" VerticalAlignment="Top"><Grid Height="47" Name="grid1" Width="356"><Button HorizontalAlignment="Left" Margin="16,15,0,9" Name="btnBackup" Width="149" Click="btnBackup_Click">Backup Configuration</Button><Button Margin="0,15,36,9" Name="btnRestore" Click="btnRestore_Click" HorizontalAlignment="Right" Width="139">Restore Configuration</Button></Grid></GroupBox><GroupBox Header="Set Read/Write 6 properties for Users in Active Directory" Margin="27,133,24,117" Name="groupBox2"><Grid Height="47" Name="grid2" Width="356">
+        <Button  HorizontalAlignment="Left" Margin="16,15,0,9" Name="btnPermissionsAllUser" Width="149" Click="btnPermissionsAllUser_Click">Set Permissions for all users</Button><Button  Margin="0,15,36,9" Name="btnPermissions" HorizontalAlignment="Right" Width="139" Click="btnPermissions_Click">Set Permissions for a user</Button></Grid></GroupBox><GroupBox Header="Import and Export Contacts in Active Directory" Height="63" Margin="27,0,24,35" Name="groupBox3" VerticalAlignment="Bottom"><Grid Height="47" Name="grid3" Width="356"><Button  HorizontalAlignment="Right" Margin="0,16,36,8" Name="btnImport" Width="139" Click="btnImport_Click">Import contacts</Button><Button Margin="16,16,0,8" Name="btnExport" HorizontalAlignment="Left" Width="149" Click="btnExport_Click">Export contacts</Button></Grid></GroupBox></Grid>
+</UserControl>

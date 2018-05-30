@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LicenseKey</name>
+    </assembly>
+    <members>
+        <member name="T:LicenseKey.Genkey">
+            <summary>
+            Summary description for Genkey.
+            </summary>
+        </member>
+        <member name="M:LicenseKey.Genkey.FindToken(System.Char)">
+            <summary>
+            Find the token in the array. return the offset otherwise return a -1
+            </summary>
+            <param name="findToken">token to find in the array structre.</param>
+            <returns>offset otherwise a -1</returns>
+        </member>
+        <member name="M:LicenseKey.Genkey.#ctor">
+            <summary>
+            GenKey constructor
+            </summary>
+        </member>
+        <member name="M:LicenseKey.Genkey.getLicenseKey">
+            <summary>
+            Method used to get the final license key
+            </summary>
+            <returns>The license key</returns>
+        </member>
+        <member name="M:LicenseKey.Genkey.SetTokenformat(System.Boolean)">
+            <summary>
+            Set the token format. This is either byte or bit at this time.
+            </summary>
+            <param name="usebytes">Use bytes or Bits</param>
+            <returns>
+            true is success
+            false is error
+            </returns>
+        </member>
+        <member name="M:LicenseKey.Genkey.SetTokenbase(System.Int32)">
+            <summary>
+            Set the token base. This is either 10 or 16 at this time. 
+            </summary>
+            <param name="bbase">
+            10 for a base 10 template string, this will use bytes
+            16 for a base 16 template string, this will use bits
+            </param>
+            <returns>
+            true is success
+            false is error
+            </returns>
+        </member>
+        <member name="M:LicenseKey.Genkey.SetMaxTokens(System.Int32)">
+            <summary>
+            Set the maximum number of different tokens that will be used in
+            this key creation.
+            </summary>
+            <param name="ntokens">the maximum number of tokens</param>
+        </member>
+        <member name="M:LicenseKey.Genkey.GetMaxTokens">
+            <summary>
+            Get the maximum number of tokens that was set. 
+            </summary>
+            <returns>maximum number of tokens</returns>
+        </member>
+        <member name="M:LicenseKey.Genkey.SetTemplate(System.String)">
+            <summary>
+            Set the license template string.
+            </summary>
+            <param name="strTemplatearg">the template to set</param>
+            <returns>an integer for the erorr 0 is success</returns>
+        </member>
+        <member name="M:LicenseKey.Genkey.GetTemplate">
+            <summary>
+            Get the template string. 
+            </summary>
+            <returns>the template</returns>
+        </member>
+        <member name="M:LicenseKey.Genkey.AddToken(System.Int32,System.String,System.String,System.String)">
+            <summary>
+            Add a token into the array. 
+            </summary>
+            <param name="loc">location of the data within the array</param>
+            <param name="cc">the string representation of the characer token</param>
+            <param name="strtype">the type of value that will be used in the transformation</param>
+            <param name="intvalue">the initial value of the data (if any)</param>
+            <returns>Integer 0 if success</returns>
+        </member>
+        <member name="M:LicenseKey.Genkey.GetKeyError(System.Int32)">
+            <summary>
+            Get the error string of the error return
+            </summary>
+            <param name="errnum">The erro number that you want the string for</param>
+            <returns>The error string</returns>
+        </member>
+        <member name="M:LicenseKey.Genkey.CheckTokenSize(System.Boolean,System.Boolean,System.Int32,System.Int32)">
+            <summary>
+            Check the token size that was passed in. 
+            given a value that needs to be checked and
+            the count of items that appear in the template string. 
+            Remember that rcnt is the number of tokens that appear.
+            Will the token (number) fit into the size of the token string? 
+            </summary>
+            <param name="flagbase10">
+             the base of the number request true = 10, false = 16
+            </param>
+            <param name="flagbytes">
+             the type of template being used. bytes/bits
+            </param>
+            <param name="tokvalue">
+             the value of the passed value. 
+            </param>
+            <param name="rcnt">
+             the count of characters that appear in the template string.
+             this count will be divided by 4 if it is for bits. 4 bits to a byte. 
+            </param>
+            <returns>true if successful or false if not</returns>
+        </member>
+        <member name="M:LicenseKey.Genkey.checktoken(System.String,System.String,System.Char,System.Int32@)">
+            <summary>
+            This method check that the token is represented in the license string
+            and if so makes sure that it will fit into the field length. 
+            it also converts the token to its numeric format.  
+            </summary>
+            <param name="LicTempInp"></param>
+            The license template string
+            <param name="tokinp"></param>
+            The token input (initial value string representation) if any was entered. 
+            <param name="tok"></param>
+            the actual character that is ised for the token. 
+            <param name="tvalue"></param>
+            the integer value that will be converted
+            <returns></returns>
+        </member>
+        <member name="M:LicenseKey.Genkey.CreateNumString(System.Boolean,System.Boolean,System.Int32,System.Int32)">
+            <summary>
+            Create a number string based ont he number base passed in.  
+            the number that need to be created a string and the size ( count) of the number of characters. 
+            the count of items that appear in the template string. 
+            Remember that origlen is the number of tokens that appear 
+            </summary>
+            <param name="flagbase10">
+            the base of the number request true = 10, false = 16
+            </param>
+            <param name="flagbytes">
+            the type of template being used. bytes/bits
+            </param>
+            <param name="number">
+            the value of the passed value. 
+            </param>
+            <param name="origlen">
+            the count of characters that appear in the template string.
+            this count will be divided by 4 if it is for bits. 4 bits to a byte. 
+            </param>
+            <returns>the number as a string</returns>
+        </member>
+        <member name="M:LicenseKey.Genkey.getRndNumber(System.Int32)">
+            <summary>
+            Get a random number so we can add it into the license key string. 
+            </summary>
+            <param name="rcnt">The size of teh field</param>
+            <returns>integer 0 is success</returns>
+        </member>
+        <member name="M:LicenseKey.Genkey.CreateKey">
+            <summary>
+            Create the key
+            </summary>
+            <returns>integer 0 if success</returns>
+        </member>
+        <member name="T:LicenseKey.Genkey.ttype">
+            <summary>
+            Emumerated data types 
+            </summary>
+        </member>
+        <member name="F:LicenseKey.Genkey.ttype.NUM">
+            <summary>
+            The data type is numeric
+            </summary>
+        </member>
+        <member name="F:LicenseKey.Genkey.ttype.DATE">
+            <summary>
+             The data type is Date
+            </summary>
+        </member>
+        <member name="F:LicenseKey.Genkey.ttype.CHAR">
+            <summary>
+            The data type is character
+            </summary>
+        </member>
+        <member name="T:LicenseKey.Genkey.Tokens">
+            <summary>
+            Internal structure for the tokens
+            </summary>
+        </member>
+        <member name="F:LicenseKey.Genkey.Tokens.c">
+            <summary>
+            The character token
+            </summary>
+        </member>
+        <member name="F:LicenseKey.Genkey.Tokens.strValue">
+            <summary>
+            The string value of the item
+            </summary>
+        </member>
+        <member name="F:LicenseKey.Genkey.Tokens.type">
+            <summary>
+            The data type
+            </summary>
+        </member>
+        <member name="F:LicenseKey.Genkey.Tokens.ivalue">
+            <summary>
+            The initial value
+            </summary>
+        </member>
+        <member name="M:LicenseKey.Genkey.Tokens.Add(System.Char,LicenseKey.Genkey.ttype,System.String)">
+            <summary>
+            Add a token into the collection
+            </summary>
+            <param name="cc">The character token</param>
+            <param name="ltype">The data type</param>
+            <param name="strvaluee">The data value</param>
+        </member>
+        <member name="T:LicenseKey.Randomm">
+            <summary>
+            Summary description for Random.
+            </summary>
+        </member>
+        <member name="M:LicenseKey.Randomm.#ctor">
+            <summary>
+            The random class returns random numbers based on a base. 
+            </summary>
+        </member>
+        <member name="M:LicenseKey.Randomm.Setbase(System.Int32)">
+            <summary>
+            Sets the base of the random number. 
+            </summary>
+            <param name="baseValue">The base type. Should be a 10 or 16</param>
+            <returns>True of false if succesful</returns>
+        </member>
+        <member name="M:LicenseKey.Randomm.SetMaxLength(System.Int32)">
+            <summary>
+            Sets the max Length of the number. 
+            </summary>
+            <param name="maxLength">The length of the number. Needs to be 1-9.</param>
+            <returns>None</returns>
+        </member>
+        <member name="M:LicenseKey.Randomm.GetRanNumber">
+            <summary>
+            Get a randon number
+            </summary>
+            <returns>The random number</returns>
+        </member>
+    </members>
+</doc>

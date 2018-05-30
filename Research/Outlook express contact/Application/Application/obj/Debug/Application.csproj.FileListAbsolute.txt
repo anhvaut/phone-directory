@@ -1,0 +1,8 @@
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\Outlook express contact\Application\Application\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\Outlook express contact\Application\Application\obj\Debug\Application.Form1.resources
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\Outlook express contact\Application\Application\obj\Debug\Application.Properties.Resources.resources
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\Outlook express contact\Application\Application\obj\Debug\Application.csproj.GenerateResource.Cache
+D:\Projects\Phone Directory\Research\Outlook express contact\Application\Application\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\Research\Outlook express contact\Application\Application\obj\Debug\Application.Form1.resources
+D:\Projects\Phone Directory\Research\Outlook express contact\Application\Application\obj\Debug\Application.Properties.Resources.resources
+D:\Projects\Phone Directory\Research\Outlook express contact\Application\Application\obj\Debug\Application.csproj.GenerateResource.Cache

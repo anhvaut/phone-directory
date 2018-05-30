@@ -1,0 +1,2 @@
+Tools-->Macro-->Security-->Programmatic Access
+Never warn me about suspicious activity

@@ -1,0 +1,522 @@
+/* NKTWAB is an ActiveX library that allows to create and modify Microsoft's Windows Address Book and Windows Vista's contacts.
+ * Copyright (C) 2007 Pablo Yabo.
+ * pablo.yabo@nektra.com
+ * 
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ * 
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ * 
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
+ * 02110-1301  USA
+ *
+ * http://www.gnu.org/licenses/lgpl.html
+ * 
+ **/
+
+import "oaidl.idl";
+import "ocidl.idl";  
+
+[
+	uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A6),
+	helpstring("Nektra NKTWAB library"),
+	version(2.0)
+]
+library NKTWABLib
+{
+	importlib("stdole2.tlb");
+
+	typedef enum tagWABITEMTYPE {
+		WAB_INVALID = 0x0000,
+		WAB_FOLDER = 0x0001,
+		WAB_GROUP = 0x0002,
+		WAB_CONTACT = 0x0004,
+	} WABITEMTYPE;
+
+
+	coclass Folder;
+
+
+    [
+        object,
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7BC),
+		helpstring("ContactContainer object."),
+        oleautomation
+    ]
+    interface INKTWABItem: IDispatch
+    {
+		[helpstring("Get item entry id.")]
+		/**
+		Get item entry id.<br>
+		All wab items have an unique id of 4 bytes.
+		*/
+		[propget] HRESULT EntryID([out, retval] BSTR* pVal );
+
+		[propget] HRESULT Name([out, retval] BSTR *pVal );
+		[propput] HRESULT Name([in] BSTR newVal );
+
+		[helpstring("Get item type.")]
+		/**
+		Get item type.
+		*/
+		[propget] HRESULT Type([out, retval] WABITEMTYPE *type);
+
+		[helpstring("Save changed properties of the item.")]
+		/**
+		Save changed properties of the item or the item itself if it is a new item.
+		*/
+		HRESULT Save();
+
+		[helpstring("Delete item from storage.")]
+		/**
+		Delete item from storage.
+		*/
+		HRESULT Delete();
+
+		[helpstring("Returns TRUE if the contact is valid. New contacts are not valid until saved.")]
+		/**
+		Returns TRUE if the contact is valid.<br>
+		New contacts are not valid until saved.<br>
+		Contacts retrieved from a IGroupContacts object can be invalid because they are<br>
+		in that group but they were deleted.
+		*/
+		HRESULT IsValid([out, retval] BOOL *);
+    };
+
+	/**
+	NKTWABItem: abstract class that represents any item in the wab storage.<br><br>
+	Interface: INKTWABItem
+	*/
+    [
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7BD)
+    ]
+    coclass NKTWABItem
+    {
+        [default] dispinterface INKTWABItem;
+    };
+
+    [
+        object,
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A9),
+		helpstring("Contact Item object."),
+        oleautomation
+    ]
+    interface IContact: INKTWABItem
+    {
+		// Exposed contact fields
+		[propget] HRESULT DisplayName([out, retval] BSTR* pVal );
+		[propput] HRESULT DisplayName([in] BSTR newVal );
+		[propget] HRESULT FirstName([out, retval] BSTR* pVal );
+		[propput] HRESULT FirstName([in] BSTR newVal );
+		[propget] HRESULT MiddleName([out, retval] BSTR* pVal );
+		[propput] HRESULT MiddleName([in] BSTR newVal );
+		[propget] HRESULT LastName([out, retval] BSTR* pVal );
+		[propput] HRESULT LastName([in] BSTR newVal );
+		[propget] HRESULT Title([out, retval] BSTR* pVal );
+		[propput] HRESULT Title([in] BSTR newVal );
+		[propget] HRESULT Comment([out, retval] BSTR* pVal );
+		[propput] HRESULT Comment([in] BSTR newVal );
+
+		[propget] HRESULT HomeAddressCity([out, retval] BSTR* pVal );
+		[propput] HRESULT HomeAddressCity([in] BSTR newVal );
+		[propget] HRESULT CompanyName([out, retval] BSTR* pVal );
+		[propput] HRESULT CompanyName([in] BSTR newVal );
+		[propget] HRESULT HomeAddressCountry([out, retval] BSTR* pVal );
+		[propput] HRESULT HomeAddressCountry([in] BSTR newVal );
+		[propget] HRESULT DefaultEmailAddress([out, retval] BSTR* pVal );
+		/**
+		This function set the first mail address and makes it default. 
+		*/
+		[propput] HRESULT DefaultEmailAddress([in] BSTR newVal );
+		[propget] HRESULT DefaultEmailAddressIndex([out, retval] long *index );
+		[propput] HRESULT DefaultEmailAddressIndex([in] long index );
+		[propget] HRESULT Email1Address([out, retval] BSTR* pVal );
+		[propput] HRESULT Email1Address([in] BSTR newVal );
+		[propget] HRESULT Email2Address([out, retval] BSTR* pVal );
+		[propput] HRESULT Email2Address([in] BSTR newVal );
+		[propget] HRESULT Email3Address([out, retval] BSTR* pVal );
+		[propput] HRESULT Email3Address([in] BSTR newVal );
+		[propget] HRESULT HomeFaxNumber([out, retval] BSTR* pVal );
+		[propput] HRESULT HomeFaxNumber([in] BSTR newVal );
+		[propget] HRESULT HomeAddressStreet([out, retval] BSTR* pVal );
+		[propput] HRESULT HomeAddressStreet([in] BSTR newVal );
+		[propget] HRESULT JobTitle([out, retval] BSTR* pVal );
+		[propput] HRESULT JobTitle([in] BSTR newVal );
+		[propget] HRESULT MobileTelephoneNumber([out, retval] BSTR* pVal );
+		[propput] HRESULT MobileTelephoneNumber([in] BSTR newVal );
+		[propget] HRESULT PagerTelephoneNumber([out, retval] BSTR* pVal );
+		[propput] HRESULT PagerTelephoneNumber([in] BSTR newVal );
+		[propget] HRESULT HomeTelephoneNumber([out, retval] BSTR* pVal );
+		[propput] HRESULT HomeTelephoneNumber([in] BSTR newVal );
+		[propget] HRESULT HomeAddressPostalCode([out, retval] BSTR* pVal );
+		[propput] HRESULT HomeAddressPostalCode([in] BSTR newVal );
+		[propget] HRESULT HomeAddressState([out, retval] BSTR* pVal );
+		[propput] HRESULT HomeAddressState([in] BSTR newVal );
+		[propget] HRESULT PersonalHomePage([out, retval] BSTR* pVal );
+		[propput] HRESULT PersonalHomePage([in] BSTR newVal );
+		[propget] HRESULT BusinessAddressStreet([out, retval] BSTR* pVal );
+		[propput] HRESULT BusinessAddressStreet([in] BSTR newVal );
+		[propget] HRESULT BusinessAddressCity([out, retval] BSTR* pVal );
+		[propput] HRESULT BusinessAddressCity([in] BSTR newVal );
+		[propget] HRESULT BusinessAddressCountry([out, retval] BSTR* pVal );
+		[propput] HRESULT BusinessAddressCountry([in] BSTR newVal );
+		[propget] HRESULT BusinessFaxNumber([out, retval] BSTR* pVal );
+		[propput] HRESULT BusinessFaxNumber([in] BSTR newVal );
+		[propget] HRESULT BusinessTelephoneNumber([out, retval] BSTR* pVal );
+		[propput] HRESULT BusinessTelephoneNumber([in] BSTR newVal );
+		[propget] HRESULT BusinessAddressPostalCode([out, retval] BSTR* pVal );
+		[propput] HRESULT BusinessAddressPostalCode([in] BSTR newVal );
+		[propget] HRESULT BusinessAddressState([out, retval] BSTR* pVal );
+		[propput] HRESULT BusinessAddressState([in] BSTR newVal );
+		[propget] HRESULT BusinessDepartment([out, retval] BSTR* pVal );
+		[propput] HRESULT BusinessDepartment([in] BSTR newVal );
+		[propget] HRESULT BusinessHomePage([out, retval] BSTR* pVal );
+		[propput] HRESULT BusinessHomePage([in] BSTR newVal );
+
+		// Internal contacts fields
+		[propget] HRESULT CreationTime([out, retval] DATE*);
+		[propget] HRESULT LastModificationTime([out, retval] DATE*);
+
+//		[helpstring("Get the value of the specified property.")]
+//		/**
+//		Get the value of the specified property.
+//		*/
+//		[propget] HRESULT GetProperty([in] long prop, [out, retval] VARIANT* pVal);
+//
+//		[helpstring("Set the value of the specified property. If success it returns TRUE.")]
+//		/**
+//		Set the value of the specified property. If success it returns TRUE.
+//		*/
+//		[propput] HRESULT SetProperty([in] long prop, [in] VARIANT val, [out, retval] BOOL *success);
+    };
+
+	/**
+	Contact: this class represents a simple contact in the wab storage.<br><br>
+	Interface: IContact
+	*/
+    [
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7AA)
+    ]
+    coclass Contact
+    {
+        [default] dispinterface IContact;
+    };
+
+    [
+        object,
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7B4),
+		helpstring("Items object."),
+        oleautomation
+    ]
+    interface IGroupContacts : IContacts
+	{
+		[helpstring("Remove the contact from the Group but it remains in its original storage.")]
+		/**
+		Remove the contact from the Group but it remains in its original storage.<br>
+		This function only removes the reference of the group.
+		*/
+		HRESULT Delete([in] BSTR entryID);
+
+		[helpstring("Add the contact with the specified entry id to the contacts of this group.")]
+		/**
+		Add the contact with the specified entry id to the contacts of this group.
+		*/
+		HRESULT Add([in] BSTR entryID);
+    };
+
+	/**
+	GroupContacts: this class represents the contact list stored in a group. <br>
+	The difference between this class and the FolderContacts is that the last<br>
+	one stores contacts while the first one only link to them. That's why it is<br>
+	not possible to delete contacts from this class (you can only delete the link).<br><br>
+	Interface: IGroupContacts
+	*/
+    [
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7B0)
+    ]
+    coclass GroupContacts
+    {
+        [default] dispinterface IGroupContacts;
+    };
+
+    [
+        object,
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7B5),
+		helpstring("Items object."),
+        oleautomation
+    ]
+    interface IFolderContacts : IContacts
+	{
+		[helpstring("Deletes the contact with the specified entry id.")]
+		/**
+		Deletes the contact with the specified entry id.<br>
+		After calling this function the contact is no longer valid.
+		*/
+		HRESULT Delete([in] BSTR entryID);
+
+		[helpstring("Add the contact to this folder.")]
+		/**
+		Add the contact to this folder.
+		*/
+		HRESULT Add([out, retval] Contact**);
+    };
+
+	/**
+	FolderContacts: this class represents the contact list of a folder in the wab storage.<br>
+	This class lets you create contacts and delete them.<br><br>
+	Interface: IFolderContacts
+	*/
+    [
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7B6)
+    ]
+    coclass FolderContacts
+    {
+        [default] dispinterface IFolderContacts;
+    };
+
+    [
+        object,
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7AF),
+		helpstring("Items object."),
+        oleautomation
+    ]
+    interface IContacts: IDispatch
+    {
+		[helpstring("Get the number of items.")]
+		/**
+		Get the number of items.
+		*/
+		[propget] HRESULT Count([out, retval] long*);
+
+		[helpstring("Get the specific item by index (1 based) or using a string of the entry id.")]
+		/**
+		Get the specific item by index (1 based) or using a string of the entry id.<br>
+		NOTE: contacts linked to a group can be deleted and they are kept in the contact
+		list of the group until they are deleted from the list. So, items returned here 
+		can be invalid.
+		*/
+		[propget] HRESULT Item([in] VARIANT idx, [out, retval] Contact** pVal);
+    };
+
+	/**
+	Contacts: abstract class that represents a list of contacts.<br><br>
+	Interface: IContacts
+	*/
+    [
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7B9)
+    ]
+    coclass Contacts
+    {
+        [default] dispinterface IContacts;
+    };
+
+	coclass Group;
+
+    [
+        object,
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7C3),
+		helpstring("Folders object."),
+        oleautomation
+    ]
+    interface IGroups: IDispatch
+    {
+		[helpstring("Get the number of items.")]
+		/**
+		Get the number of items.
+		*/
+		[propget] HRESULT Count([out,retval]long*);
+
+		[helpstring("Get the specific item by index (1 based) or using a string of the entry id.")]
+		/**
+		Get the specific item by index (1 based) or using a string of the entry id.<br>
+		*/
+		[propget] HRESULT Item( [in] VARIANT idx, [out, retval] Group **);
+
+		[helpstring("Creates a new group.")]
+		/**
+		Creates a new group. User IGroup::Save to store it.
+		*/
+		HRESULT Add([out, retval] Group**);
+    };
+
+	/**
+	Groups: this class represents a group list.<br><br>
+	Interface: IGroups
+	*/
+    [
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7C2)
+    ]
+    coclass Groups
+    {
+        [default] dispinterface IGroups;
+    };
+
+    [
+        object,
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7C1),
+		helpstring("Group object."),
+        oleautomation
+    ]
+    interface IGroup: IContactContainer
+    {
+    };
+
+	/**
+	Group: this class represents a group in the wab storage.<br><br>
+	Interface: IGroup
+	*/
+    [
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7C0)
+    ]
+    coclass Group
+    {
+        [default] dispinterface IGroup;
+    };
+
+	interface IFolder;
+
+    [
+        object,
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7AD),
+		helpstring("Folders object."),
+        oleautomation
+    ]
+    interface IFolders: IDispatch
+    {
+		[helpstring("Get the number of items.")]
+		/**
+		Get the number of items.
+		*/
+		[propget] HRESULT Count([out,retval] long*);
+
+		[helpstring("Get the specific item (1 based) or using a string of the entry id.")]
+		/**
+		Get the specific item by index (1 based) or using a string of the entry id.
+		*/
+		[propget] HRESULT Item( [in] VARIANT idx, [out, retval] Folder**);
+
+		[helpstring("Get the number of items.")]
+		/**
+		Creates a new folder.<br>
+		NOTE: After creating a folder and saving it using IFolder:Save you have to 
+		restart all the objects to 'see' the new folder. This is a extrange behaviour that
+		I wasn't able to solve.
+		*/
+		HRESULT Add([out, retval] Folder**);
+    };
+
+	/**
+	Folders: this class represents a folder list.<br><br>
+	Interface: IFolders
+	*/
+    [
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7AE)
+    ]
+    coclass Folders
+    {
+        [default] dispinterface IFolders;
+    };
+
+    [
+        object,
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7AB),
+		helpstring("Folder Item object."),
+        oleautomation
+    ]
+    interface IFolder: IContactContainer
+    {
+		[propget] HRESULT Folders([out, retval] Folders **pVal );
+		[propget] HRESULT Groups([out, retval] Groups **pVal );
+    };
+
+	/**
+	Folder: this class represents a folder in the wab storage.<br><br>
+	Interface: IFolder
+	*/
+    [
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7AC)
+    ]
+    coclass Folder
+    {
+        [default] dispinterface IFolder;
+    };
+
+    [
+        object,
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7BA),
+		helpstring("ContactContainer object."),
+        oleautomation
+    ]
+    interface IContactContainer: INKTWABItem
+    {
+		[propget] HRESULT Contacts([out, retval] Contacts **pVal);
+    };
+
+	/**
+	ContactContainer: abstract class that represents any item that contains a list of contacts.<br><br>
+	Interface: IContactContainer
+	*/
+    [
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7BB)
+    ]
+    coclass ContactContainer
+    {
+        [default] dispinterface IContactContainer;
+    };
+
+    [
+        object,
+        uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A7),
+		helpstring("NKTWAB object."),
+        oleautomation
+    ]
+    interface INKTWAB : IDispatch
+    {
+		[helpstring("Set the wab file to browse.")]
+		/**
+		Set the wab file to browse.
+		*/
+		HRESULT SetFilename(BSTR filename);
+
+		[helpstring("Get root folder.")]
+		/**
+		Get root folder.<br>
+		RootFolder is not visible and it is the parent of all the folders. Microsoft tool<br>
+		shows the folders as children of the DefaultFolder but they are all children of<br>
+		RootFolder, even DefaultFolder.
+		*/
+		[propget] HRESULT RootFolder([out, retval] Folder **);
+
+		[helpstring("Get default folder (in general 'Main Identity's Folder'.")]
+		/**
+		Get default folder (in general 'Main Identity's Folder').
+		*/
+		[propget] HRESULT DefaultFolder([out, retval] Folder **);
+
+		[helpstring("Get the specific item using the entry id.")]
+		/**
+		Get the specific item using the entry id.<br>
+		If it does not exist it returns a null object.
+		*/
+		[propget] HRESULT Item([in] VARIANT itemId, [out, retval] NKTWABItem **);
+    };
+
+	/**
+	NKTWAB: Main class that represents the wab storage.<br><br>
+	Interface: INKTWAB
+	*/
+    [
+		uuid(9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8)
+    ]
+    coclass NKTWAB
+    {
+		[default] interface INKTWAB;
+    };
+};

@@ -1,0 +1,1 @@
+Change File in Code Protect file to new one before build setup

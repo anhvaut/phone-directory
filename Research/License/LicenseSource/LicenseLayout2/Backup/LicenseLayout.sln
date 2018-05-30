@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenseLayout", "LicenseLayout\LicenseLayout.csproj", "{735CCA6C-697E-47D6-807A-E41AF1B3055A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenseKey", "LicenseKey\LicenseKey.csproj", "{1DC3F930-86BE-4404-8366-49BF479244E0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenseNunit", "LicenseNunit\LicenseNunit.csproj", "{6FEE9A26-6AA7-4083-8CB2-EFE2951AFCFB}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{735CCA6C-697E-47D6-807A-E41AF1B3055A}.Debug.ActiveCfg = Debug|.NET
+		{735CCA6C-697E-47D6-807A-E41AF1B3055A}.Debug.Build.0 = Debug|.NET
+		{735CCA6C-697E-47D6-807A-E41AF1B3055A}.Release.ActiveCfg = Release|.NET
+		{735CCA6C-697E-47D6-807A-E41AF1B3055A}.Release.Build.0 = Release|.NET
+		{1DC3F930-86BE-4404-8366-49BF479244E0}.Debug.ActiveCfg = Debug|.NET
+		{1DC3F930-86BE-4404-8366-49BF479244E0}.Debug.Build.0 = Debug|.NET
+		{1DC3F930-86BE-4404-8366-49BF479244E0}.Release.ActiveCfg = Release|.NET
+		{1DC3F930-86BE-4404-8366-49BF479244E0}.Release.Build.0 = Release|.NET
+		{6FEE9A26-6AA7-4083-8CB2-EFE2951AFCFB}.Debug.ActiveCfg = Debug|.NET
+		{6FEE9A26-6AA7-4083-8CB2-EFE2951AFCFB}.Debug.Build.0 = Debug|.NET
+		{6FEE9A26-6AA7-4083-8CB2-EFE2951AFCFB}.Release.ActiveCfg = Release|.NET
+		{6FEE9A26-6AA7-4083-8CB2-EFE2951AFCFB}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

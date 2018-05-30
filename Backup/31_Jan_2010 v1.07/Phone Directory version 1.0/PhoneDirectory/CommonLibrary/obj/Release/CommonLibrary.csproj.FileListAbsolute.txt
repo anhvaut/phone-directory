@@ -1,0 +1,11 @@
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\obj\Release\CommonLibrary.csproj.ResolveComReference.cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\bin\Release\CommonLibrary.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\bin\Release\CommonLibrary.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\bin\Release\Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\bin\Release\office.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\bin\Release\Microsoft.Office.Interop.Outlook.xml
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\obj\Release\CommonLibrary.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\obj\Release\CommonLibrary.pdb

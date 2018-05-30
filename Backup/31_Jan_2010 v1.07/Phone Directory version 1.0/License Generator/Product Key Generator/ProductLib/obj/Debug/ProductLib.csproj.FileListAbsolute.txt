@@ -1,0 +1,12 @@
+D:\Projects\Phone Directory\License Generator\Product Key Generator\ProductLib\bin\Debug\ProductLib.dll
+D:\Projects\Phone Directory\License Generator\Product Key Generator\ProductLib\bin\Debug\ProductLib.pdb
+D:\Projects\Phone Directory\License Generator\Product Key Generator\ProductLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\License Generator\Product Key Generator\ProductLib\obj\Debug\ProductLib.dll
+D:\Projects\Phone Directory\License Generator\Product Key Generator\ProductLib\obj\Debug\ProductLib.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\License Generator\Product Key Generator\ProductLib\bin\Debug\Wollundra.ProductLib.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\License Generator\Product Key Generator\ProductLib\bin\Debug\Wollundra.ProductLib.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\License Generator\Product Key Generator\ProductLib\bin\Debug\Wollundra.Encoding.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\License Generator\Product Key Generator\ProductLib\bin\Debug\Wollundra.Encoding.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\License Generator\Product Key Generator\ProductLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\Phone Directory version 1.0\License Generator\Product Key Generator\ProductLib\obj\Debug\Wollundra.ProductLib.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\License Generator\Product Key Generator\ProductLib\obj\Debug\Wollundra.ProductLib.pdb

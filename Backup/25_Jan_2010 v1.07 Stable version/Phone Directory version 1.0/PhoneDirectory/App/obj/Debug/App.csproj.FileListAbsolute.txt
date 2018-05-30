@@ -1,0 +1,5 @@
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\App\bin\Debug\Wollundra.App.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\App\bin\Debug\Wollundra.App.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\App\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\App\obj\Debug\Wollundra.App.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\App\obj\Debug\Wollundra.App.pdb

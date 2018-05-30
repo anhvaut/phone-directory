@@ -1,0 +1,7 @@
+﻿<Window x:Class="Wollundra.ControlPanel.Parameters.ExportParameters"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="ExportParameters" Height="244" Width="400" WindowStyle="ToolWindow" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBlock Height="21" HorizontalAlignment="Left" Margin="25,25,0,0" Name="textBlock1" Text="Server name:" VerticalAlignment="Top" Width="120" /><TextBox Height="23" Margin="25,45,40,0" Name="txtServerName" VerticalAlignment="Top" /><TextBlock Margin="27,79,40,0" Name="lbFilePath" Text="File Path" Height="19" VerticalAlignment="Top" /><TextBox Margin="25,94,0,86" Name="txtFilePath" HorizontalAlignment="Left" Width="241" Height="23" /><Button HorizontalAlignment="Right" Margin="0,93,40,87" Name="btnBrowse" Width="63" Click="btnBrowse_Click" Height="23">Browse</Button><Button Height="23" Margin="147,0,157,35" Name="btnOK" VerticalAlignment="Bottom" Click="btnOK_Click">OK</Button></Grid>
+</Window>

@@ -1,0 +1,76 @@
+Building documentation...
+Initializing...
+Merging XML documentation...
+Building file mapping...
+Loading XSLT files...
+    namespace.xslt
+    namespacehierarchy.xslt
+    type.xslt
+    typehierarchy.xslt
+    allmembers.xslt
+    individualmembers.xslt
+    event.xslt
+    member.xslt
+    memberoverload.xslt
+    property.xslt
+    field.xslt
+    htmlcontents.xslt
+Generating HTML pages...
+LicenseKey.html
+LicenseKeyHierarchy.html
+LicenseKey.Checksum.html
+LicenseKey.ChecksumMembers.html
+LicenseKey.ChecksumConstructor.html
+LicenseKey.ChecksumProperties.html
+LicenseKey.Checksum.ChecksumAlgorithm.html
+LicenseKey.Checksum.ChecksumNumber.html
+LicenseKey.ChecksumMethods.html
+LicenseKey.Checksum.CalculateChecksum.html
+LicenseKey.Checksum.ChecksumType.html
+LicenseKey.GenerateKey.html
+LicenseKey.GenerateKeyMembers.html
+LicenseKey.GenerateKeyConstructor.html
+LicenseKey.GenerateKeyProperties.html
+LicenseKey.GenerateKey.ChecksumAlgorithm.html
+LicenseKey.GenerateKey.LicenseTemplate.html
+LicenseKey.GenerateKey.MaxTokens.html
+LicenseKey.GenerateKey.UseBase10.html
+LicenseKey.GenerateKey.UseBytes.html
+LicenseKey.GenerateKeyMethods.html
+LicenseKey.GenerateKey.AddToken.html
+LicenseKey.GenerateKey.CreateKey.html
+LicenseKey.GenerateKey.DisassembleKey.html
+LicenseKey.GenerateKey.GetLicenseKey.html
+LicenseKey.GenerateKey.TokenTypes.html
+LicenseKey.NumberDisplay.html
+LicenseKey.NumberDisplayMembers.html
+LicenseKey.NumberDisplayConstructor.html
+LicenseKey.NumberDisplayMethods.html
+LicenseKey.NumberDisplay.CreateNumberString.html
+LicenseKey.Randomm.html
+LicenseKey.RandommMembers.html
+LicenseKey.RandommConstructor.html
+LicenseKey.RandommMethods.html
+LicenseKey.Randomm.GetRandomNumber.html
+LicenseKey.Randomm.SetMaxLength.html
+Generating HTML content file...
+transform the HHC contents file into html
+Compiling HTML Help file...
+Compiling Html Help file
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling d:\My Projects\NetCSharp\License\LicenseLayout2\doc\ndoc_msdn_temp\LicenseKey.chm
+
+
+Compile time: 0 minutes, 1 second
+39	Topics
+213	Local links
+0	Internet links
+4	Graphics
+
+
+Created d:\My Projects\NetCSharp\License\LicenseLayout2\doc\ndoc_msdn_temp\LicenseKey.chm, 30,857 bytes
+Compression decreased file by 101,879 bytes.
+
+Html Help compile complete
+Done.

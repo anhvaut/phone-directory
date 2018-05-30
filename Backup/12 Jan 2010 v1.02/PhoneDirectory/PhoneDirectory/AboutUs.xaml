@@ -1,0 +1,7 @@
+﻿<Window x:Class="PhoneDirectory.AboutUs"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="AboutUs" Height="200" Width="371" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow">
+    <Grid>
+        <TextBlock Height="21" Margin="52,40,71,0" Name="txtProductName" VerticalAlignment="Top" Text="ProductName" /><TextBlock Height="21" Margin="52,72,71,0" Name="txtVersion" Text="Version" VerticalAlignment="Top" /><TextBlock Height="21" Margin="52,109,71,0" Name="txtCopyright" Text="Copyright" VerticalAlignment="Top" /></Grid>
+</Window>

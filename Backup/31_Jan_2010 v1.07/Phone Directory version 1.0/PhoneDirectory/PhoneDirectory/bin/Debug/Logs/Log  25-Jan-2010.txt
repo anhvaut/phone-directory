@@ -1,0 +1,8 @@
+25-Jan-2010 4:16:41 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.
+25-Jan-2010 4:18:50 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.
+25-Jan-2010 4:24:38 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.
+25-Jan-2010 4:25:24 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.
+25-Jan-2010 4:25:44 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.
+25-Jan-2010 4:26:32 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.
+25-Jan-2010 4:27:21 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.
+25-Jan-2010 5:12:59 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.

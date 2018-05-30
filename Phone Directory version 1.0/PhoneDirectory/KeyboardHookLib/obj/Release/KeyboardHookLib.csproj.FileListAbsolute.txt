@@ -1,0 +1,5 @@
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\KeyboardHookLib\bin\Release\Wollundra.KeyboardHookLib.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\KeyboardHookLib\bin\Release\Wollundra.KeyboardHookLib.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\KeyboardHookLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\KeyboardHookLib\obj\Release\Wollundra.KeyboardHookLib.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\KeyboardHookLib\obj\Release\Wollundra.KeyboardHookLib.pdb

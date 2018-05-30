@@ -1,0 +1,28 @@
+﻿<Window x:Class="ControlPanel.Options"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:xpbar="clr-namespace:ZonaTools.XPlorerBar;assembly=ZonaTools.XPlorerBar"
+    Title="Options" Height="353" Width="618" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow" ResizeMode="NoResize" Loaded="Window_Loaded" Closing="Window_Closing">
+    <Grid>
+
+        <!-- XPlorerBar -->
+        <xpbar:XPlorerBar x:Name="ZT_XPlorerBar" Width="196"
+                              AllowMultipleExpands="{Binding ElementName=chMultipleExpands, Path=IsChecked}" 
+                              xpbar:ThemeManager.Theme="LunaBlue" HorizontalAlignment="Left">
+
+            
+            <xpbar:XPlorerSection Header="Settings" IsExpanded="True" HeaderImage="/Images/Preperences.png"
+                                      IsPrimary="{Binding ElementName=chPrimary, Path=IsChecked}">
+                <StackPanel Orientation="Vertical">
+                    <xpbar:XPlorerItem ItemText="Look and Feel" ItemImage="/Images/LookAndFeel.png" Name="itLookAndFeel" Click="itLookAndFeel_Click" />
+                    <xpbar:XPlorerItem ItemText="Search Applications" ItemImage="/Images/SearchApplication.png" Name="itSearchApplications" Click="itSearchApplications_Click" />
+                    <xpbar:XPlorerItem ItemText="Display Result" ItemImage="/Images/DisplayResult.png" Name="itDisplayResult" Click="itDisplayResult_Click" />
+                    <xpbar:XPlorerItem ItemText="General Settings" ItemImage="/Images/GeneralSettings.png" Name="itGeneralSettings" Click="itGeneralSettings_Click" />
+                    <xpbar:XPlorerItem ItemText="Utilities" ItemImage="/Images/BackupAndRestore.png" Name="itBackupandRestore" Click="itBackupandRestore_Click" />
+                    <xpbar:XPlorerItem ItemText="Licensing" ItemImage="/Images/licensing.png" Name="itProductLicense" Click="itProductLicense_Click" />
+                </StackPanel>
+            </xpbar:XPlorerSection>
+        </xpbar:XPlorerBar>
+        <StackPanel Margin="199,3,2,1" Name="SPContainer" />
+    </Grid>
+</Window>

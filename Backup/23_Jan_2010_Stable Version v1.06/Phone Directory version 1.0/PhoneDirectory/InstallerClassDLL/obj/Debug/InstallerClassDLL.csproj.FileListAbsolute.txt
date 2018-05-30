@@ -1,0 +1,15 @@
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\bin\Debug\InstallerClassDLL.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\bin\Debug\InstallerClassDLL.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Debug\InstallerClassDLL.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Debug\InstallerClassDLL.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Debug\InstallerClassDLL.SerialNumber.resources
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Debug\InstallerClassDLL.csproj.GenerateResource.Cache
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\bin\Debug\CommonLibrary.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\bin\Debug\Interop.NKTWABLib.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\bin\Debug\ProductLib.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\bin\Debug\ProductLib.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\bin\Debug\CommonLibrary.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Debug\InstallerClassDLL.g.resources
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\InstallerClassDLL\obj\Debug\InstallerClassDLL.Properties.Resources.resources

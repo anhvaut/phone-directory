@@ -1,0 +1,11 @@
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\MultilanguageApplications_src\bin\Debug\HelloWorldGlobed.exe
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\MultilanguageApplications_src\bin\Debug\HelloWorldGlobed.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\MultilanguageApplications_src\bin\Debug\es-CO\HelloWorldGlobed.resources.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\MultilanguageApplications_src\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\MultilanguageApplications_src\obj\Debug\HelloWorldGlobed.Form1.resources
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\MultilanguageApplications_src\obj\Debug\HelloWorldGlobed.myRes.resources
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\MultilanguageApplications_src\obj\Debug\HelloWorldGlobed.myRes.es-CO.resources
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\MultilanguageApplications_src\obj\Debug\HelloWorldGlobed.csproj.GenerateResource.Cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\MultilanguageApplications_src\obj\Debug\es-CO\HelloWorldGlobed.resources.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\MultilanguageApplications_src\obj\Debug\HelloWorldGlobed.exe
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\Research\MultilanguageApplications_src\obj\Debug\HelloWorldGlobed.pdb

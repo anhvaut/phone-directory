@@ -1,0 +1,36 @@
+19-Jan-2010 4:35:09 AM, From LT-002 ==> Check Domain Name  LDAP://DC=WOLLUNDRA,DC=local;The specified domain either does not exist or could not be contacted.
+
+19-Jan-2010 10:52:28 AM, From LT-002 ==> Check Domain Name  LDAP://DC=WOLLUNDRA,DC=local;The specified domain either does not exist or could not be contacted.
+
+19-Jan-2010 10:53:02 AM, From LT-002 ==> Check Domain Name  LDAP://DC=WOLLUNDRA,DC=local;The specified domain either does not exist or could not be contacted.
+
+19-Jan-2010 10:53:28 AM, From LT-002 ==> Check Domain Name  LDAP://DC=WOLLUNDRA,DC=local;The specified domain either does not exist or could not be contacted.
+
+19-Jan-2010 10:56:19 AM, From LT-002 ==> Check Domain Name  LDAP://DC=WOLLUNDRA,DC=local;The specified domain either does not exist or could not be contacted.
+
+19-Jan-2010 10:56:52 AM, From LT-002 ==> Check Domain Name  LDAP://DC=WOLLUNDRA,DC=local;The specified domain either does not exist or could not be contacted.
+
+19-Jan-2010 10:58:23 AM, From LT-002 ==> Check Domain Name  LDAP://DC=WOLLUNDRA,DC=local;The specified domain either does not exist or could not be contacted.
+
+19-Jan-2010 11:00:01 AM, From LT-002 ==> Check Domain Name  LDAP://DC=WOLLUNDRA,DC=local;The specified domain either does not exist or could not be contacted.
+
+19-Jan-2010 11:01:02 AM, From LT-002 ==> Check Domain Name  LDAP://DC=WOLLUNDRA,DC=local;The specified domain either does not exist or could not be contacted.
+
+19-Jan-2010 11:02:07 AM, From LT-002 ==> Check Domain Name  LDAP://DC=WOLLUNDRA,DC=local;The specified domain either does not exist or could not be contacted.
+
+19-Jan-2010 11:02:47 AM, From LT-002 ==> Check Domain Name  LDAP://DC=WOLLUNDRA,DC=local;The specified domain either does not exist or could not be contacted.
+
+19-Jan-2010 11:03:22 AM, From LT-002 ==> Check Domain Name  LDAP://DC=WOLLUNDRA,DC=local;The specified domain either does not exist or could not be contacted.
+
+19-Jan-2010 12:47:32 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 8007007e.
+19-Jan-2010 12:47:45 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 8007007e.
+19-Jan-2010 7:20:12 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.
+19-Jan-2010 7:20:41 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.
+19-Jan-2010 7:20:54 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.
+19-Jan-2010 7:30:11 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.
+19-Jan-2010 7:32:18 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.
+19-Jan-2010 7:34:22 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.
+19-Jan-2010 7:34:29 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.
+19-Jan-2010 7:36:48 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.
+19-Jan-2010 7:42:07 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.
+19-Jan-2010 8:48:50 PM, From LT-002 ==> Outlook Express;Retrieving the COM class factory for component with CLSID {9E1DFDCF-6AEF-4166-A5D7-82D6F47BD7A8} failed due to the following error: 80040154.

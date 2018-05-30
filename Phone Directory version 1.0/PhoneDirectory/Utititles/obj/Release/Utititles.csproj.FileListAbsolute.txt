@@ -1,0 +1,7 @@
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\Utititles\bin\Release\Wollundra.Utititles.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\Utititles\bin\Release\Wollundra.Utititles.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\Utititles\bin\Release\Wollundra.App.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\Utititles\bin\Release\Wollundra.App.pdb
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\Utititles\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\Utititles\obj\Release\Wollundra.Utititles.dll
+D:\Projects\Phone Directory\Phone Directory version 1.0\PhoneDirectory\Utititles\obj\Release\Wollundra.Utititles.pdb

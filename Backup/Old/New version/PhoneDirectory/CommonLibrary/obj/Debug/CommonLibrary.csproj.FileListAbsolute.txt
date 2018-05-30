@@ -1,0 +1,40 @@
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\bin\Debug\Interop.ActiveDs.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\obj\Debug\Interop.ActiveDs.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\obj\Debug\CommonLibrary.csproj.ResolveComReference.cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\TEMP\PhoneDirectory\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\TEMP\PhoneDirectory\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\TEMP\PhoneDirectory\CommonLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\TEMP\PhoneDirectory\CommonLibrary\obj\Debug\CommonLibrary.csproj.ResolveComReference.cache
+C:\TEMP\PhoneDirectory\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\TEMP\PhoneDirectory\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\PhoneDirectory\CommonLibrary\obj\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\CommonLibrary\bin\Debug\Interop.ActiveDs.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\CommonLibrary\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\CommonLibrary\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\CommonLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\CommonLibrary\obj\Debug\Interop.ActiveDs.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\CommonLibrary\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\CommonLibrary\obj\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\CommonLibrary\obj\Debug\CommonLibrary.csproj.ResolveComReference.cache
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Documents and Settings\admin\Desktop\PhoneDirectory\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\CommonLibrary\bin\Debug\CommonLibrary.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\CommonLibrary\bin\Debug\CommonLibrary.pdb
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\CommonLibrary\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\CommonLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\CommonLibrary\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\CommonLibrary\obj\Debug\CommonLibrary.csproj.ResolveComReference.cache
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\CommonLibrary\obj\Debug\CommonLibrary.dll
+C:\Documents and Settings\BLUERAIN\Desktop\YWCA\New version\PhoneDirectory\CommonLibrary\obj\Debug\CommonLibrary.pdb
+C:\TEMP\PhoneDirectory\CommonLibrary\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\TEMP\PhoneDirectory\CommonLibrary\bin\Debug\Interop.Microsoft.Office.Core.dll

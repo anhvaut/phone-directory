@@ -1,0 +1,7 @@
+﻿<Window x:Class="Wollundra.ControlPanel.Parameters.UserIDRequired"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="UserIDRequired" Height="151" Width="334" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBlock Height="24" Margin="33,18,0,0" Name="textBlock1" VerticalAlignment="Top" Text="User ID:" HorizontalAlignment="Left" Width="223" /><TextBox Margin="35,44,35,46" Name="txtUserID" Height="23" /><Button Height="23" Margin="114,0,123,14" Name="btnOK" VerticalAlignment="Bottom" Click="btnOK_Click">OK</Button></Grid>
+</Window>

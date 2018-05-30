@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="nktwab-demo">
+</Property><Property Name="Solution File" Value="D:\Projects\Phone Directory\Research\Outlook express contact\nktwab-lgpl-source\nktwab-lgpl\src\demo\dotNet\nktwab-demo.sln">
+</Property><Property Name="User Options File" Value="D:\Projects\Phone Directory\Research\Outlook express contact\nktwab-lgpl-source\nktwab-lgpl\src\demo\dotNet\nktwab-demo.suo">
+</Property><Property Name="Date" Value="Friday, January 08, 2010">
+</Property><Property Name="Time" Value="10:36 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="nktwab-demo.sln" Description="File successfully backed up as D:\Projects\Phone Directory\Research\Outlook express contact\nktwab-lgpl-source\nktwab-lgpl\src\demo\dotNet\Backup\nktwab-demo.sln">
+</Event><Event ErrorLevel="0" Project="" Source="nktwab-demo.suo" Description="File successfully backed up as D:\Projects\Phone Directory\Research\Outlook express contact\nktwab-lgpl-source\nktwab-lgpl\src\demo\dotNet\Backup\nktwab-demo.suo">
+</Event><Event ErrorLevel="0" Project="nktwab-demo" Source="nktwab-demo.vbproj" Description="Project file successfully backed up as D:\Projects\Phone Directory\Research\Outlook express contact\nktwab-lgpl-source\nktwab-lgpl\src\demo\dotNet\Backup\nktwab-demo.vbproj">
+</Event><Event ErrorLevel="0" Project="nktwab-demo" Source="nktwab-demo.vbproj.user" Description="Project user file successfully backed up as D:\Projects\Phone Directory\Research\Outlook express contact\nktwab-lgpl-source\nktwab-lgpl\src\demo\dotNet\Backup\nktwab-demo.vbproj.user">
+</Event><Event ErrorLevel="0" Project="nktwab-demo" Source="AssemblyInfo.vb" Description="File successfully backed up as D:\Projects\Phone Directory\Research\Outlook express contact\nktwab-lgpl-source\nktwab-lgpl\src\demo\dotNet\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="nktwab-demo" Source="frmContact.vb" Description="File successfully backed up as D:\Projects\Phone Directory\Research\Outlook express contact\nktwab-lgpl-source\nktwab-lgpl\src\demo\dotNet\Backup\frmContact.vb">
+</Event><Event ErrorLevel="0" Project="nktwab-demo" Source="frmMain.vb" Description="File successfully backed up as D:\Projects\Phone Directory\Research\Outlook express contact\nktwab-lgpl-source\nktwab-lgpl\src\demo\dotNet\Backup\frmMain.vb">
+</Event><Event ErrorLevel="0" Project="nktwab-demo" Source="frmSelectContact.vb" Description="File successfully backed up as D:\Projects\Phone Directory\Research\Outlook express contact\nktwab-lgpl-source\nktwab-lgpl\src\demo\dotNet\Backup\frmSelectContact.vb">
+</Event><Event ErrorLevel="0" Project="nktwab-demo" Source="modTools.vb" Description="File successfully backed up as D:\Projects\Phone Directory\Research\Outlook express contact\nktwab-lgpl-source\nktwab-lgpl\src\demo\dotNet\Backup\modTools.vb">
+</Event><Event ErrorLevel="0" Project="nktwab-demo" Source="frmContact.resX" Description="File successfully backed up as D:\Projects\Phone Directory\Research\Outlook express contact\nktwab-lgpl-source\nktwab-lgpl\src\demo\dotNet\Backup\frmContact.resX">
+</Event><Event ErrorLevel="0" Project="nktwab-demo" Source="frmMain.resX" Description="File successfully backed up as D:\Projects\Phone Directory\Research\Outlook express contact\nktwab-lgpl-source\nktwab-lgpl\src\demo\dotNet\Backup\frmMain.resX">
+</Event><Event ErrorLevel="0" Project="nktwab-demo" Source="frmSelectContact.resX" Description="File successfully backed up as D:\Projects\Phone Directory\Research\Outlook express contact\nktwab-lgpl-source\nktwab-lgpl\src\demo\dotNet\Backup\frmSelectContact.resX">
+</Event><Event ErrorLevel="0" Project="nktwab-demo" Source="nktwab-demo.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="nktwab-demo" Source="nktwab-demo.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="nktwab-demo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="nktwab-demo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="nktwab-demo" Source="nktwab-demo.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

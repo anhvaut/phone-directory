@@ -1,0 +1,8 @@
+﻿<UserControl x:Class="PhoneDirectory.UCOptions.SearchApplications"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="313" Width="417" Loaded="UserControl_Loaded">
+    <Grid>
+        <TextBlock FontSize="12" FontWeight="Bold" Height="21" Margin="77,13,101,0" Name="textBlock1" Text="Choose applications to search" TextAlignment="Center" VerticalAlignment="Top" /><CheckBox Height="16" Margin="41,66,130,0" Name="ckOutlook" VerticalAlignment="Top">Search in Outlook</CheckBox>
+        <CheckBox Height="16" Margin="41,104,123,0" Name="ckAcctiveDirectory" VerticalAlignment="Top" Checked="ckAcctiveDirectory_Checked" Unchecked="ckAcctiveDirectory_Unchecked">Search in Active Directory</CheckBox><TextBox Margin="42,0,73,132" Name="txtDomainName" Height="23" VerticalAlignment="Bottom" /><TextBlock Margin="42,138,74,154" Name="textBlock2" Text="Domain Name (e.g. LDAP://DomainName):" /><Button Height="23" HorizontalAlignment="Right" Margin="0,0,74,27" Name="btnSave" VerticalAlignment="Bottom" Width="75" Click="btnSave_Click">Save</Button></Grid>
+</UserControl>

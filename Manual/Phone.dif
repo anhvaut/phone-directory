@@ -1,0 +1,46 @@
+TABLE
+0,1
+"EXCEL"
+VECTORS
+0,2
+""
+TUPLES
+0,7
+""
+DATA
+0,0
+""
+-1,0
+BOT
+1,0
+"Name"
+1,0
+"Business"
+1,0
+"Home"
+1,0
+"Mobile"
+1,0
+"Fax"
+1,0
+"Email"
+1,0
+"Address"
+-1,0
+BOT
+1,0
+"John W.Fergus"
+1,0
+"+61 2 6287 8823"
+1,0
+"+61 2 6287 7773"
+1,0
+"+61 4 0777 8821"
+1,0
+"+61 2 6287 8800"
+1,0
+"john.fergus@itmsgroup.com.au"
+1,0
+"19 Trenerry Street, Weston  ACT  2611"
+-1,0
+EOD

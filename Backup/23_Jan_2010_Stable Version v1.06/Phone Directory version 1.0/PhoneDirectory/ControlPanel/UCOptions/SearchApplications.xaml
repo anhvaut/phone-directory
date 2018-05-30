@@ -1,0 +1,9 @@
+﻿<UserControl x:Class="ControlPanel.UCOptions.SearchApplications"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="313" Width="417" Loaded="UserControl_Loaded">
+    <Grid>
+        <CheckBox Height="16" Margin="43,53,128,0" Name="ckOutlook" VerticalAlignment="Top" Checked="ckOutlook_Checked" Unchecked="ckOutlook_Unchecked">Search in Outlook</CheckBox>
+        <CheckBox Height="16" Margin="43,116,121,0" Name="ckAcctiveDirectory" VerticalAlignment="Top" Checked="ckAcctiveDirectory_Checked" Unchecked="ckAcctiveDirectory_Unchecked">Search in Active Directory</CheckBox><TextBox Margin="56,0,75,131" Name="txtDomainName" Height="23" VerticalAlignment="Bottom" /><TextBlock Margin="56,139,60,153" Name="textBlock2" Text="Domain Name (e.g. DC=Your Domain Name, DC=local):" />
+        <CheckBox Height="16" Margin="44,81,127,0" Name="ckOutlookExpress" VerticalAlignment="Top" Checked="ckOutlookExpress_Checked" Unchecked="ckOutlookExpress_Unchecked">Search in Outlook Express (WAB)</CheckBox><Button Height="23" Margin="56,0,0,101" Name="btnCheckDomain" VerticalAlignment="Bottom" Click="btnCheckDomain_Click" HorizontalAlignment="Left" Width="152">Check and save domain</Button><Image HorizontalAlignment="Right" Margin="0,151,26,125" Name="imgCheck" Stretch="None" Width="49" Source="/ControlPanel;component/Images/check.png" Visibility="Hidden" ToolTip="OK" /><Image HorizontalAlignment="Right" Margin="0,149,26,127" Name="imgFail" Source="/ControlPanel;component/Images/fail.jpg" Stretch="None" Visibility="Hidden" Width="49" ToolTip="Invalid domain" /><TextBlock Height="21" HorizontalAlignment="Right" Margin="0,0,22,102" Name="lbDomainStatus" VerticalAlignment="Bottom" Width="49" Text="OK" TextAlignment="Center" FontWeight="Bold" Visibility="Hidden" /></Grid>
+</UserControl>

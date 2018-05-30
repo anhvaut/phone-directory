@@ -1,0 +1,8 @@
+﻿<UserControl x:Class="PhoneDirectory.UCOptions.BackupandRestore"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+     Height="313" Width="417">
+    <Grid>
+        <TextBlock FontSize="12" FontWeight="Bold" Height="21" Margin="76,21,102,0" Name="textBlock1" Text="Backup and Restore configuration" TextAlignment="Center" VerticalAlignment="Top" /><Button Height="23" HorizontalAlignment="Left" Margin="39,100,0,0" Name="btnBackup" VerticalAlignment="Top" Width="129">Backup Configuration</Button>
+        <Button Height="23" Margin="0,100,62,0" Name="btnRestore" VerticalAlignment="Top" HorizontalAlignment="Right" Width="139">Restore Configuration</Button></Grid>
+</UserControl>

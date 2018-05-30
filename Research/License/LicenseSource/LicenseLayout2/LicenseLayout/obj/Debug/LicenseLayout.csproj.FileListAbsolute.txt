@@ -1,0 +1,14 @@
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseLayout\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseLayout\obj\Debug\LicenseLayout.CheckSumUI.resources
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseLayout\obj\Debug\LicenseLayout.Form1.resources
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseLayout\obj\Debug\LicenseLayout.Form2.resources
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseLayout\obj\Debug\LicenseLayout.FullTest.resources
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseLayout\obj\Debug\LicenseLayout.RandomUI.resources
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseLayout\obj\Debug\LicenseLayout.csproj.GenerateResource.Cache
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseLayout\bin\Debug\LicenseLayout.exe
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseLayout\bin\Debug\LicenseLayout.pdb
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseLayout\bin\Debug\LicenseKey.dll
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseLayout\bin\Debug\LicenseKey.pdb
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseLayout\bin\Debug\LicenseKey.xml
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseLayout\obj\Debug\LicenseLayout.exe
+D:\Projects\Phone Directory\Research\License\LicenseSource\LicenseLayout2\LicenseLayout\obj\Debug\LicenseLayout.pdb
