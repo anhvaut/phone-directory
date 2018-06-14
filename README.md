@@ -1,3 +1,6 @@
+![alt text](https://github.com/anhvaut/phone-directory/blob/master/Manual/New%20Help/G'Day%20Help_files/image002.png "Description")
+![alt text](https://github.com/anhvaut/phone-directory/blob/master/Manual/New%20Help/G'Day%20Help_files/image008.png "Description")
+![alt text](https://github.com/anhvaut/phone-directory/blob/master/Manual/New%20Help/G'Day%20Help_files/image010.png "Description")
 ## Admin Configuration
 ### Look & Feel
  
@@ -14,8 +17,6 @@ Background:
 •	The displayed background colour is configurable;
 •	Normally this will be set to reflect the corporate colours.
 
-
-![alt text](https://github.com/anhvaut/phone-directory/blob/master/Manual/New%20Help/G'Day%20Help_files/image002.png "Description")
 
 ## Search applications
  
