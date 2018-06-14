@@ -1,7 +1,7 @@
-##Admin Configuration
-###Look & Feel
+## Admin Configuration
+### Look & Feel
  
-###Organisation Name:
+### Organisation Name:
 •	This is displayed in the banner of the G’Day screen;
 •	This is configurable to show company name or your name;
 Organisation Logo (32 x32 image):
@@ -17,9 +17,9 @@ Background:
 
 
 
-##Search applications
+## Search applications
  
-###Search in Outlook
+### Search in Outlook
 •	This check box configures the service to cache your Microsoft Outlook contacts;
 •	If you use another mail client this option will be ignored.
 Search in Outlook Express (WAB)
@@ -35,7 +35,7 @@ Check and save domain
 •	Stand alone installations should not specify a domain name.
 Display Results
  
-###System administrators must ensure that these settings do not contravene company policy and that private information is only available in accordance with those policies.
+### System administrators must ensure that these settings do not contravene company policy and that private information is only available in accordance with those policies.
 Home Phone
 •	Select this option to display home or private phone numbers.
 Mobile Phone
@@ -64,7 +64,7 @@ Application Shortcut Key:
 
 
 
-###Utilities
+### Utilities
  
 N.B.	These utilities will:
 Write data to your hard disk drive;
@@ -86,7 +86,7 @@ o	Set the write permissions for all accounts.
 Set Permissions for a user Button
 o	Set the write permissions for a single account.
 
-###Import and Export Contacts in Active Directory
+### Import and Export Contacts in Active Directory
 Export Contacts Button
 o	Exports the five editable fields for all users and contacts in Active Directory to a *.CSV file;
 o	This file is used to verify the completeness and accuracy of the data stored in Active Directory and to add or amend data when required;
@@ -104,7 +104,7 @@ o	Modifies account properties, attributes, with the data specified in the amende
 
 
 
-###Product Licensing
+### Product Licensing
  
 Your product key (xxxxx-xxxxx-xxxxx-xxxxx-xxxxx)
 •	Upon receipt of your payment Wollundra Pty Ltd will generate a license key and email that key to the email address specified;
@@ -116,7 +116,7 @@ Your Product is activated.
 •	This is informational field that identifies the type of license and the expiry date;
 •	Wollundra Pty Ltd will consider claims against incorrect licensing for 30 days only.  Please ensure that your purchase is correctly licensed.
  
-###How to Use G’Day
+###  How to Use G’Day
 The installation process adds:
 •	A shortcut to the user’s desktop;
 •	Application shortcuts to “All Programs”	“Phone Directory”;
@@ -128,7 +128,7 @@ To access the G’Day service:
 
  
 
-###To find a telephone number:
+### To find a telephone number:
 •	Type in the search bar the first character of the contact;
 •	To refine the search type additional characters.
  
@@ -139,7 +139,7 @@ Click on the contact you are looking for to display their details;
 
  
 
-###About Us:
+### About Us:
 •	Users may contact support@wollundra.com.au for product support;
 •	Wollundra encourages users to recommend additional features and enhancements that they believe make G’Day more effective tool.
 
@@ -152,7 +152,7 @@ Click on the contact you are looking for to display their details;
 
 
 
-###Add New Contact
+### Add New Contact
 •	Only works with Microsoft Outlook;
 •	Allows users to add a contact by completing the details and clicking “Add”
  
@@ -171,7 +171,7 @@ Click on the contact you are looking for to display their details;
 
 
 
-###Edit my profile:
+### Edit my profile:
 •	For companies that have a policy to allow user to maintain their own details;
 •	Amend the fields necessary accept email; and
 •	Save.
